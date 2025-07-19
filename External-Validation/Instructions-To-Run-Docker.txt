@@ -1,0 +1,12 @@
+We have provided a docker image and example folder in Box for data transfer.
+The docker is available at: https://duke.box.com/s/vh20i6coc5tiv4kdpqqdos0huhqfxgrl
+The docker image requires a data folder (one for reference has been added called radiomics-data, please replace data in this folder) that contains all the needed files, and will store the outputs. This data folder has two elements within to run:
+1) A folder called "BraTS-MEN-Test" containing patient folders with the same structure as the BraTS Meningioma Train dataset. 
+2) A csv called "AgeSex.csv" that has columns of "BraTS ID" (i.e. BraTS-MEN-00000-000), "Grade" (1,2,3), "Age" and "Sex" (Male/Female). The other columns may represent that of the BraTS Meningioma clinical outcomes file, but will not be used in our code. Our processing code is sensitive to the same column names as in the provided example "AgeSex.csv" file.
+
+Once these are established the docker profile can be run via the following commands with your respective paths. In a terminal in the same directory as the docker image: 
+$ docker load --input radiomics-test.tar
+Then, in the same directory (with the PATH being the path to your radiomics-data folder):
+$ docker run   -v /PATH/radiomics-data:/data   radiomics-test:latest   2>&1 | tee PATH/radiomics-data/pipeline.log
+which, for example took the form of the following on my Ubuntu machine:
+$ docker run   -v /home/tjz5/Projects/radiomics-data:/data   radiomics-test:latest   2>&1 | tee /home/tjz5/Projects/radiomics-data/pipeline.log

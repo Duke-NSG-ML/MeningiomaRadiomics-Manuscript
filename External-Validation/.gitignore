@@ -1,0 +1,5 @@
+*.gz
+*.nii
+*.pkl
+*.csv
+*.tar

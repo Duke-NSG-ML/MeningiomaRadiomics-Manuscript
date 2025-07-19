@@ -1,0 +1,2880 @@
+2025-05-12 14:08:38,911 - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-05-12 14:08:38,911 - Enabled image types: {'Original': {}}
+2025-05-12 14:08:38,911 - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-05-12 14:08:41,630 - Calculating features with label: 3
+2025-05-12 14:08:41,630 - Loading image and mask
+2025-05-12 14:08:46,673 - Computing shape
+2025-05-12 14:08:46,700 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:08:46,700 - Calculating features for original image
+2025-05-12 14:08:46,721 - Computing firstorder
+2025-05-12 14:08:46,727 - Computing glcm
+2025-05-12 14:08:46,738 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:08:46,738 - Computing gldm
+2025-05-12 14:08:46,740 - Computing glrlm
+2025-05-12 14:08:46,753 - Computing glszm
+2025-05-12 14:08:46,755 - Computing ngtdm
+2025-05-12 14:08:46,756 - Calculating features with label: 3
+2025-05-12 14:08:46,757 - Loading image and mask
+2025-05-12 14:08:52,365 - Computing shape
+2025-05-12 14:08:52,391 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:08:52,391 - Calculating features for original image
+2025-05-12 14:08:52,404 - Computing firstorder
+2025-05-12 14:08:52,416 - Computing glcm
+2025-05-12 14:08:52,419 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:08:52,419 - Computing gldm
+2025-05-12 14:08:52,420 - Computing glrlm
+2025-05-12 14:08:52,433 - Computing glszm
+2025-05-12 14:08:52,435 - Computing ngtdm
+2025-05-12 14:08:52,447 - Calculating features with label: 3
+2025-05-12 14:08:52,447 - Loading image and mask
+2025-05-12 14:08:56,846 - Computing shape
+2025-05-12 14:08:56,867 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:08:56,867 - Calculating features for original image
+2025-05-12 14:08:56,900 - Computing firstorder
+2025-05-12 14:08:56,912 - Computing glcm
+2025-05-12 14:08:56,914 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:08:56,914 - Computing gldm
+2025-05-12 14:08:56,915 - Computing glrlm
+2025-05-12 14:08:56,927 - Computing glszm
+2025-05-12 14:08:56,929 - Computing ngtdm
+2025-05-12 14:08:56,932 - Calculating features with label: 3
+2025-05-12 14:08:56,932 - Loading image and mask
+2025-05-12 14:09:01,949 - Computing shape
+2025-05-12 14:09:01,970 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:01,970 - Calculating features for original image
+2025-05-12 14:09:02,010 - Computing firstorder
+2025-05-12 14:09:02,014 - Computing glcm
+2025-05-12 14:09:02,016 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:02,016 - Computing gldm
+2025-05-12 14:09:02,017 - Computing glrlm
+2025-05-12 14:09:02,047 - Computing glszm
+2025-05-12 14:09:02,048 - Computing ngtdm
+2025-05-12 14:09:04,821 - Calculating features with label: 2
+2025-05-12 14:09:04,821 - Loading image and mask
+2025-05-12 14:09:09,740 - Computing shape
+2025-05-12 14:09:09,760 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:09,760 - Calculating features for original image
+2025-05-12 14:09:09,791 - Computing firstorder
+2025-05-12 14:09:09,794 - Computing glcm
+2025-05-12 14:09:09,796 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:09,796 - Computing gldm
+2025-05-12 14:09:09,797 - Computing glrlm
+2025-05-12 14:09:09,809 - Computing glszm
+2025-05-12 14:09:09,810 - Computing ngtdm
+2025-05-12 14:09:09,811 - Calculating features with label: 3
+2025-05-12 14:09:09,811 - Loading image and mask
+2025-05-12 14:09:14,439 - Computing shape
+2025-05-12 14:09:14,464 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:14,464 - Calculating features for original image
+2025-05-12 14:09:14,491 - Computing firstorder
+2025-05-12 14:09:14,494 - Computing glcm
+2025-05-12 14:09:14,498 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:14,498 - Computing gldm
+2025-05-12 14:09:14,500 - Computing glrlm
+2025-05-12 14:09:14,501 - Computing glszm
+2025-05-12 14:09:14,502 - Computing ngtdm
+2025-05-12 14:09:14,514 - Calculating features with label: 2
+2025-05-12 14:09:14,514 - Loading image and mask
+2025-05-12 14:09:19,507 - Computing shape
+2025-05-12 14:09:19,537 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:19,537 - Calculating features for original image
+2025-05-12 14:09:19,567 - Computing firstorder
+2025-05-12 14:09:19,569 - Computing glcm
+2025-05-12 14:09:19,571 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:19,571 - Computing gldm
+2025-05-12 14:09:19,572 - Computing glrlm
+2025-05-12 14:09:19,587 - Computing glszm
+2025-05-12 14:09:19,588 - Computing ngtdm
+2025-05-12 14:09:19,589 - Calculating features with label: 3
+2025-05-12 14:09:19,589 - Loading image and mask
+2025-05-12 14:09:24,366 - Computing shape
+2025-05-12 14:09:24,385 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:24,385 - Calculating features for original image
+2025-05-12 14:09:24,416 - Computing firstorder
+2025-05-12 14:09:24,420 - Computing glcm
+2025-05-12 14:09:24,421 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:24,422 - Computing gldm
+2025-05-12 14:09:24,423 - Computing glrlm
+2025-05-12 14:09:24,433 - Computing glszm
+2025-05-12 14:09:24,435 - Computing ngtdm
+2025-05-12 14:09:24,436 - Calculating features with label: 2
+2025-05-12 14:09:24,436 - Loading image and mask
+2025-05-12 14:09:28,821 - Computing shape
+2025-05-12 14:09:28,851 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:28,851 - Calculating features for original image
+2025-05-12 14:09:28,877 - Computing firstorder
+2025-05-12 14:09:28,882 - Computing glcm
+2025-05-12 14:09:28,884 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:28,885 - Computing gldm
+2025-05-12 14:09:28,885 - Computing glrlm
+2025-05-12 14:09:28,887 - Computing glszm
+2025-05-12 14:09:28,889 - Computing ngtdm
+2025-05-12 14:09:28,899 - Calculating features with label: 3
+2025-05-12 14:09:28,899 - Loading image and mask
+2025-05-12 14:09:33,290 - Computing shape
+2025-05-12 14:09:33,309 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:33,309 - Calculating features for original image
+2025-05-12 14:09:33,334 - Computing firstorder
+2025-05-12 14:09:33,337 - Computing glcm
+2025-05-12 14:09:33,339 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:33,339 - Computing gldm
+2025-05-12 14:09:33,340 - Computing glrlm
+2025-05-12 14:09:33,351 - Computing glszm
+2025-05-12 14:09:33,352 - Computing ngtdm
+2025-05-12 14:09:33,354 - Calculating features with label: 2
+2025-05-12 14:09:33,354 - Loading image and mask
+2025-05-12 14:09:38,151 - Computing shape
+2025-05-12 14:09:38,180 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:38,180 - Calculating features for original image
+2025-05-12 14:09:38,210 - Computing firstorder
+2025-05-12 14:09:38,212 - Computing glcm
+2025-05-12 14:09:38,214 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:38,214 - Computing gldm
+2025-05-12 14:09:38,215 - Computing glrlm
+2025-05-12 14:09:38,226 - Computing glszm
+2025-05-12 14:09:38,227 - Computing ngtdm
+2025-05-12 14:09:38,229 - Calculating features with label: 3
+2025-05-12 14:09:38,229 - Loading image and mask
+2025-05-12 14:09:42,565 - Computing shape
+2025-05-12 14:09:42,591 - Adding image type "Original" with custom settings: {}
+2025-05-12 14:09:42,591 - Calculating features for original image
+2025-05-12 14:09:42,612 - Computing firstorder
+2025-05-12 14:09:42,624 - Computing glcm
+2025-05-12 14:09:42,626 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 14:09:42,626 - Computing gldm
+2025-05-12 14:09:42,638 - Computing glrlm
+2025-05-12 14:09:42,641 - Computing glszm
+2025-05-12 14:09:42,642 - Computing ngtdm
+2025-05-12 19:48:08,274 - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-05-12 19:48:08,275 - Enabled image types: {'Original': {}}
+2025-05-12 19:48:08,275 - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-05-12 19:48:09,359 - Calculating features with label: 3
+2025-05-12 19:48:09,359 - Loading image and mask
+2025-05-12 19:48:11,660 - Computing shape
+2025-05-12 19:48:11,726 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:11,726 - Calculating features for original image
+2025-05-12 19:48:11,745 - Computing firstorder
+2025-05-12 19:48:11,750 - Computing glcm
+2025-05-12 19:48:11,753 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:11,754 - Computing gldm
+2025-05-12 19:48:11,756 - Computing glrlm
+2025-05-12 19:48:11,758 - Computing glszm
+2025-05-12 19:48:11,760 - Computing ngtdm
+2025-05-12 19:48:11,761 - Calculating features with label: 3
+2025-05-12 19:48:11,762 - Loading image and mask
+2025-05-12 19:48:16,450 - Computing shape
+2025-05-12 19:48:16,492 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:16,492 - Calculating features for original image
+2025-05-12 19:48:16,540 - Computing firstorder
+2025-05-12 19:48:16,543 - Computing glcm
+2025-05-12 19:48:16,547 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:16,547 - Computing gldm
+2025-05-12 19:48:16,549 - Computing glrlm
+2025-05-12 19:48:16,575 - Computing glszm
+2025-05-12 19:48:16,577 - Computing ngtdm
+2025-05-12 19:48:16,590 - Calculating features with label: 3
+2025-05-12 19:48:16,590 - Loading image and mask
+2025-05-12 19:48:21,373 - Computing shape
+2025-05-12 19:48:21,405 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:21,405 - Calculating features for original image
+2025-05-12 19:48:21,433 - Computing firstorder
+2025-05-12 19:48:21,442 - Computing glcm
+2025-05-12 19:48:21,445 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:21,456 - Computing gldm
+2025-05-12 19:48:21,457 - Computing glrlm
+2025-05-12 19:48:21,460 - Computing glszm
+2025-05-12 19:48:21,473 - Computing ngtdm
+2025-05-12 19:48:21,476 - Calculating features with label: 3
+2025-05-12 19:48:21,487 - Loading image and mask
+2025-05-12 19:48:26,009 - Computing shape
+2025-05-12 19:48:26,040 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:26,040 - Calculating features for original image
+2025-05-12 19:48:26,072 - Computing firstorder
+2025-05-12 19:48:26,087 - Computing glcm
+2025-05-12 19:48:26,090 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:26,090 - Computing gldm
+2025-05-12 19:48:26,092 - Computing glrlm
+2025-05-12 19:48:26,104 - Computing glszm
+2025-05-12 19:48:26,106 - Computing ngtdm
+2025-05-12 19:48:27,844 - Calculating features with label: 2
+2025-05-12 19:48:27,845 - Loading image and mask
+2025-05-12 19:48:32,486 - Computing shape
+2025-05-12 19:48:32,509 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:32,521 - Calculating features for original image
+2025-05-12 19:48:32,553 - Computing firstorder
+2025-05-12 19:48:32,555 - Computing glcm
+2025-05-12 19:48:32,557 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:32,569 - Computing gldm
+2025-05-12 19:48:32,570 - Computing glrlm
+2025-05-12 19:48:32,571 - Computing glszm
+2025-05-12 19:48:32,572 - Computing ngtdm
+2025-05-12 19:48:32,585 - Calculating features with label: 3
+2025-05-12 19:48:32,586 - Loading image and mask
+2025-05-12 19:48:35,094 - Computing shape
+2025-05-12 19:48:35,104 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:35,104 - Calculating features for original image
+2025-05-12 19:48:35,123 - Computing firstorder
+2025-05-12 19:48:35,126 - Computing glcm
+2025-05-12 19:48:35,128 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:35,128 - Computing gldm
+2025-05-12 19:48:35,129 - Computing glrlm
+2025-05-12 19:48:35,131 - Computing glszm
+2025-05-12 19:48:35,133 - Computing ngtdm
+2025-05-12 19:48:35,134 - Calculating features with label: 2
+2025-05-12 19:48:35,135 - Loading image and mask
+2025-05-12 19:48:37,124 - Computing shape
+2025-05-12 19:48:37,134 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:37,135 - Calculating features for original image
+2025-05-12 19:48:37,147 - Computing firstorder
+2025-05-12 19:48:37,150 - Computing glcm
+2025-05-12 19:48:37,152 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:37,152 - Computing gldm
+2025-05-12 19:48:37,153 - Computing glrlm
+2025-05-12 19:48:37,155 - Computing glszm
+2025-05-12 19:48:37,156 - Computing ngtdm
+2025-05-12 19:48:37,157 - Calculating features with label: 3
+2025-05-12 19:48:37,157 - Loading image and mask
+2025-05-12 19:48:39,243 - Computing shape
+2025-05-12 19:48:39,254 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:39,254 - Calculating features for original image
+2025-05-12 19:48:39,295 - Computing firstorder
+2025-05-12 19:48:39,298 - Computing glcm
+2025-05-12 19:48:39,300 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:39,300 - Computing gldm
+2025-05-12 19:48:39,301 - Computing glrlm
+2025-05-12 19:48:39,303 - Computing glszm
+2025-05-12 19:48:39,304 - Computing ngtdm
+2025-05-12 19:48:39,306 - Calculating features with label: 2
+2025-05-12 19:48:39,306 - Loading image and mask
+2025-05-12 19:48:41,292 - Computing shape
+2025-05-12 19:48:41,306 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:41,307 - Calculating features for original image
+2025-05-12 19:48:41,318 - Computing firstorder
+2025-05-12 19:48:41,321 - Computing glcm
+2025-05-12 19:48:41,323 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:41,323 - Computing gldm
+2025-05-12 19:48:41,324 - Computing glrlm
+2025-05-12 19:48:41,326 - Computing glszm
+2025-05-12 19:48:41,327 - Computing ngtdm
+2025-05-12 19:48:41,329 - Calculating features with label: 3
+2025-05-12 19:48:41,329 - Loading image and mask
+2025-05-12 19:48:45,142 - Computing shape
+2025-05-12 19:48:45,163 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:45,163 - Calculating features for original image
+2025-05-12 19:48:45,198 - Computing firstorder
+2025-05-12 19:48:45,212 - Computing glcm
+2025-05-12 19:48:45,226 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:45,226 - Computing gldm
+2025-05-12 19:48:45,228 - Computing glrlm
+2025-05-12 19:48:45,241 - Computing glszm
+2025-05-12 19:48:45,242 - Computing ngtdm
+2025-05-12 19:48:45,244 - Calculating features with label: 2
+2025-05-12 19:48:45,244 - Loading image and mask
+2025-05-12 19:48:48,045 - Computing shape
+2025-05-12 19:48:48,076 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:48,077 - Calculating features for original image
+2025-05-12 19:48:48,102 - Computing firstorder
+2025-05-12 19:48:48,107 - Computing glcm
+2025-05-12 19:48:48,109 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:48,109 - Computing gldm
+2025-05-12 19:48:48,110 - Computing glrlm
+2025-05-12 19:48:48,113 - Computing glszm
+2025-05-12 19:48:48,114 - Computing ngtdm
+2025-05-12 19:48:48,115 - Calculating features with label: 3
+2025-05-12 19:48:48,115 - Loading image and mask
+2025-05-12 19:48:50,207 - Computing shape
+2025-05-12 19:48:50,238 - Adding image type "Original" with custom settings: {}
+2025-05-12 19:48:50,238 - Calculating features for original image
+2025-05-12 19:48:50,278 - Computing firstorder
+2025-05-12 19:48:50,281 - Computing glcm
+2025-05-12 19:48:50,283 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-12 19:48:50,284 - Computing gldm
+2025-05-12 19:48:50,285 - Computing glrlm
+2025-05-12 19:48:50,298 - Computing glszm
+2025-05-12 19:48:50,300 - Computing ngtdm
+2025-05-13 10:18:21,561 - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-05-13 10:18:21,561 - Enabled image types: {'Original': {}}
+2025-05-13 10:18:21,561 - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-05-13 10:18:22,310 - Calculating features with label: 3
+2025-05-13 10:18:22,310 - Loading image and mask
+2025-05-13 10:18:23,700 - Computing shape
+2025-05-13 10:18:23,709 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:23,709 - Calculating features for original image
+2025-05-13 10:18:23,719 - Computing firstorder
+2025-05-13 10:18:23,722 - Computing glcm
+2025-05-13 10:18:23,724 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:23,724 - Computing gldm
+2025-05-13 10:18:23,726 - Computing glrlm
+2025-05-13 10:18:23,727 - Computing glszm
+2025-05-13 10:18:23,728 - Computing ngtdm
+2025-05-13 10:18:23,730 - Calculating features with label: 3
+2025-05-13 10:18:23,730 - Loading image and mask
+2025-05-13 10:18:25,123 - Computing shape
+2025-05-13 10:18:25,131 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:25,132 - Calculating features for original image
+2025-05-13 10:18:25,140 - Computing firstorder
+2025-05-13 10:18:25,143 - Computing glcm
+2025-05-13 10:18:25,144 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:25,145 - Computing gldm
+2025-05-13 10:18:25,146 - Computing glrlm
+2025-05-13 10:18:25,147 - Computing glszm
+2025-05-13 10:18:25,148 - Computing ngtdm
+2025-05-13 10:18:25,150 - Calculating features with label: 3
+2025-05-13 10:18:25,150 - Loading image and mask
+2025-05-13 10:18:26,578 - Computing shape
+2025-05-13 10:18:26,587 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:26,587 - Calculating features for original image
+2025-05-13 10:18:26,604 - Computing firstorder
+2025-05-13 10:18:26,606 - Computing glcm
+2025-05-13 10:18:26,608 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:26,608 - Computing gldm
+2025-05-13 10:18:26,609 - Computing glrlm
+2025-05-13 10:18:26,611 - Computing glszm
+2025-05-13 10:18:26,613 - Computing ngtdm
+2025-05-13 10:18:26,614 - Calculating features with label: 3
+2025-05-13 10:18:26,615 - Loading image and mask
+2025-05-13 10:18:28,052 - Computing shape
+2025-05-13 10:18:28,060 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:28,060 - Calculating features for original image
+2025-05-13 10:18:28,068 - Computing firstorder
+2025-05-13 10:18:28,071 - Computing glcm
+2025-05-13 10:18:28,073 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:28,073 - Computing gldm
+2025-05-13 10:18:28,074 - Computing glrlm
+2025-05-13 10:18:28,076 - Computing glszm
+2025-05-13 10:18:28,077 - Computing ngtdm
+2025-05-13 10:18:28,796 - Calculating features with label: 2
+2025-05-13 10:18:28,796 - Loading image and mask
+2025-05-13 10:18:30,195 - Computing shape
+2025-05-13 10:18:30,203 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:30,203 - Calculating features for original image
+2025-05-13 10:18:30,213 - Computing firstorder
+2025-05-13 10:18:30,215 - Computing glcm
+2025-05-13 10:18:30,216 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:30,217 - Computing gldm
+2025-05-13 10:18:30,217 - Computing glrlm
+2025-05-13 10:18:30,219 - Computing glszm
+2025-05-13 10:18:30,219 - Computing ngtdm
+2025-05-13 10:18:30,222 - Calculating features with label: 3
+2025-05-13 10:18:30,223 - Loading image and mask
+2025-05-13 10:18:31,649 - Computing shape
+2025-05-13 10:18:31,662 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:31,662 - Calculating features for original image
+2025-05-13 10:18:31,672 - Computing firstorder
+2025-05-13 10:18:31,674 - Computing glcm
+2025-05-13 10:18:31,675 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:31,676 - Computing gldm
+2025-05-13 10:18:31,677 - Computing glrlm
+2025-05-13 10:18:31,678 - Computing glszm
+2025-05-13 10:18:31,679 - Computing ngtdm
+2025-05-13 10:18:31,680 - Calculating features with label: 2
+2025-05-13 10:18:31,680 - Loading image and mask
+2025-05-13 10:18:33,104 - Computing shape
+2025-05-13 10:18:33,115 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:33,115 - Calculating features for original image
+2025-05-13 10:18:33,128 - Computing firstorder
+2025-05-13 10:18:33,131 - Computing glcm
+2025-05-13 10:18:33,132 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:33,133 - Computing gldm
+2025-05-13 10:18:33,133 - Computing glrlm
+2025-05-13 10:18:33,135 - Computing glszm
+2025-05-13 10:18:33,137 - Computing ngtdm
+2025-05-13 10:18:33,138 - Calculating features with label: 3
+2025-05-13 10:18:33,138 - Loading image and mask
+2025-05-13 10:18:34,559 - Computing shape
+2025-05-13 10:18:34,565 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:34,566 - Calculating features for original image
+2025-05-13 10:18:34,574 - Computing firstorder
+2025-05-13 10:18:34,577 - Computing glcm
+2025-05-13 10:18:34,578 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:34,578 - Computing gldm
+2025-05-13 10:18:34,579 - Computing glrlm
+2025-05-13 10:18:34,581 - Computing glszm
+2025-05-13 10:18:34,582 - Computing ngtdm
+2025-05-13 10:18:34,583 - Calculating features with label: 2
+2025-05-13 10:18:34,583 - Loading image and mask
+2025-05-13 10:18:36,043 - Computing shape
+2025-05-13 10:18:36,050 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:36,050 - Calculating features for original image
+2025-05-13 10:18:36,061 - Computing firstorder
+2025-05-13 10:18:36,063 - Computing glcm
+2025-05-13 10:18:36,064 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:36,064 - Computing gldm
+2025-05-13 10:18:36,065 - Computing glrlm
+2025-05-13 10:18:36,066 - Computing glszm
+2025-05-13 10:18:36,067 - Computing ngtdm
+2025-05-13 10:18:36,068 - Calculating features with label: 3
+2025-05-13 10:18:36,068 - Loading image and mask
+2025-05-13 10:18:37,461 - Computing shape
+2025-05-13 10:18:37,471 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:37,472 - Calculating features for original image
+2025-05-13 10:18:37,479 - Computing firstorder
+2025-05-13 10:18:37,482 - Computing glcm
+2025-05-13 10:18:37,483 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:37,483 - Computing gldm
+2025-05-13 10:18:37,484 - Computing glrlm
+2025-05-13 10:18:37,486 - Computing glszm
+2025-05-13 10:18:37,487 - Computing ngtdm
+2025-05-13 10:18:37,488 - Calculating features with label: 2
+2025-05-13 10:18:37,489 - Loading image and mask
+2025-05-13 10:18:38,925 - Computing shape
+2025-05-13 10:18:38,933 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:38,933 - Calculating features for original image
+2025-05-13 10:18:38,942 - Computing firstorder
+2025-05-13 10:18:38,944 - Computing glcm
+2025-05-13 10:18:38,945 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:38,946 - Computing gldm
+2025-05-13 10:18:38,946 - Computing glrlm
+2025-05-13 10:18:38,948 - Computing glszm
+2025-05-13 10:18:38,948 - Computing ngtdm
+2025-05-13 10:18:38,949 - Calculating features with label: 3
+2025-05-13 10:18:38,950 - Loading image and mask
+2025-05-13 10:18:40,429 - Computing shape
+2025-05-13 10:18:40,435 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:18:40,435 - Calculating features for original image
+2025-05-13 10:18:40,443 - Computing firstorder
+2025-05-13 10:18:40,446 - Computing glcm
+2025-05-13 10:18:40,447 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:18:40,448 - Computing gldm
+2025-05-13 10:18:40,448 - Computing glrlm
+2025-05-13 10:18:40,450 - Computing glszm
+2025-05-13 10:18:40,451 - Computing ngtdm
+2025-05-13 10:35:45,831 - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-05-13 10:35:45,831 - Enabled image types: {'Original': {}}
+2025-05-13 10:35:45,831 - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-05-13 10:35:46,569 - Calculating features with label: 3
+2025-05-13 10:35:46,569 - Loading image and mask
+2025-05-13 10:35:48,022 - Computing shape
+2025-05-13 10:35:48,036 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:35:48,036 - Calculating features for original image
+2025-05-13 10:35:48,044 - Computing firstorder
+2025-05-13 10:35:48,048 - Computing glcm
+2025-05-13 10:35:48,049 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:35:48,050 - Computing gldm
+2025-05-13 10:35:48,051 - Computing glrlm
+2025-05-13 10:35:48,053 - Computing glszm
+2025-05-13 10:35:48,054 - Computing ngtdm
+2025-05-13 10:35:48,055 - Calculating features with label: 3
+2025-05-13 10:35:48,055 - Loading image and mask
+2025-05-13 10:35:49,485 - Computing shape
+2025-05-13 10:35:49,494 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:35:49,494 - Calculating features for original image
+2025-05-13 10:35:49,504 - Computing firstorder
+2025-05-13 10:35:49,507 - Computing glcm
+2025-05-13 10:35:49,509 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:35:49,509 - Computing gldm
+2025-05-13 10:35:49,510 - Computing glrlm
+2025-05-13 10:35:49,512 - Computing glszm
+2025-05-13 10:35:49,513 - Computing ngtdm
+2025-05-13 10:35:49,514 - Calculating features with label: 3
+2025-05-13 10:35:49,514 - Loading image and mask
+2025-05-13 10:35:50,937 - Computing shape
+2025-05-13 10:35:50,946 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:35:50,946 - Calculating features for original image
+2025-05-13 10:35:50,955 - Computing firstorder
+2025-05-13 10:35:50,958 - Computing glcm
+2025-05-13 10:35:50,960 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:35:50,960 - Computing gldm
+2025-05-13 10:35:50,961 - Computing glrlm
+2025-05-13 10:35:50,963 - Computing glszm
+2025-05-13 10:35:50,964 - Computing ngtdm
+2025-05-13 10:35:50,965 - Calculating features with label: 3
+2025-05-13 10:35:50,965 - Loading image and mask
+2025-05-13 10:35:52,403 - Computing shape
+2025-05-13 10:35:52,412 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:35:52,412 - Calculating features for original image
+2025-05-13 10:35:52,422 - Computing firstorder
+2025-05-13 10:35:52,425 - Computing glcm
+2025-05-13 10:35:52,426 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:35:52,427 - Computing gldm
+2025-05-13 10:35:52,428 - Computing glrlm
+2025-05-13 10:35:52,430 - Computing glszm
+2025-05-13 10:35:52,432 - Computing ngtdm
+2025-05-13 10:35:53,144 - Calculating features with label: 2
+2025-05-13 10:35:53,144 - Loading image and mask
+2025-05-13 10:35:54,583 - Computing shape
+2025-05-13 10:35:54,590 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:35:54,590 - Calculating features for original image
+2025-05-13 10:35:54,598 - Computing firstorder
+2025-05-13 10:35:54,600 - Computing glcm
+2025-05-13 10:35:54,601 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:35:54,601 - Computing gldm
+2025-05-13 10:35:54,602 - Computing glrlm
+2025-05-13 10:35:54,603 - Computing glszm
+2025-05-13 10:35:54,604 - Computing ngtdm
+2025-05-13 10:35:54,605 - Calculating features with label: 3
+2025-05-13 10:35:54,605 - Loading image and mask
+2025-05-13 10:35:56,022 - Computing shape
+2025-05-13 10:35:56,032 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:35:56,032 - Calculating features for original image
+2025-05-13 10:35:56,041 - Computing firstorder
+2025-05-13 10:35:56,044 - Computing glcm
+2025-05-13 10:35:56,045 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:35:56,045 - Computing gldm
+2025-05-13 10:35:56,046 - Computing glrlm
+2025-05-13 10:35:56,048 - Computing glszm
+2025-05-13 10:35:56,049 - Computing ngtdm
+2025-05-13 10:35:56,050 - Calculating features with label: 2
+2025-05-13 10:35:56,050 - Loading image and mask
+2025-05-13 10:35:57,467 - Computing shape
+2025-05-13 10:35:57,475 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:35:57,475 - Calculating features for original image
+2025-05-13 10:35:57,485 - Computing firstorder
+2025-05-13 10:35:57,487 - Computing glcm
+2025-05-13 10:35:57,489 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:35:57,489 - Computing gldm
+2025-05-13 10:35:57,490 - Computing glrlm
+2025-05-13 10:35:57,492 - Computing glszm
+2025-05-13 10:35:57,493 - Computing ngtdm
+2025-05-13 10:35:57,494 - Calculating features with label: 3
+2025-05-13 10:35:57,494 - Loading image and mask
+2025-05-13 10:35:58,910 - Computing shape
+2025-05-13 10:35:58,917 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:35:58,917 - Calculating features for original image
+2025-05-13 10:35:58,925 - Computing firstorder
+2025-05-13 10:35:58,928 - Computing glcm
+2025-05-13 10:35:58,930 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:35:58,930 - Computing gldm
+2025-05-13 10:35:58,931 - Computing glrlm
+2025-05-13 10:35:58,932 - Computing glszm
+2025-05-13 10:35:58,933 - Computing ngtdm
+2025-05-13 10:35:58,934 - Calculating features with label: 2
+2025-05-13 10:35:58,934 - Loading image and mask
+2025-05-13 10:36:00,380 - Computing shape
+2025-05-13 10:36:00,389 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:36:00,389 - Calculating features for original image
+2025-05-13 10:36:00,399 - Computing firstorder
+2025-05-13 10:36:00,401 - Computing glcm
+2025-05-13 10:36:00,402 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:36:00,403 - Computing gldm
+2025-05-13 10:36:00,403 - Computing glrlm
+2025-05-13 10:36:00,405 - Computing glszm
+2025-05-13 10:36:00,405 - Computing ngtdm
+2025-05-13 10:36:00,406 - Calculating features with label: 3
+2025-05-13 10:36:00,406 - Loading image and mask
+2025-05-13 10:36:01,826 - Computing shape
+2025-05-13 10:36:01,833 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:36:01,833 - Calculating features for original image
+2025-05-13 10:36:01,841 - Computing firstorder
+2025-05-13 10:36:01,844 - Computing glcm
+2025-05-13 10:36:01,845 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:36:01,845 - Computing gldm
+2025-05-13 10:36:01,846 - Computing glrlm
+2025-05-13 10:36:01,848 - Computing glszm
+2025-05-13 10:36:01,849 - Computing ngtdm
+2025-05-13 10:36:01,850 - Calculating features with label: 2
+2025-05-13 10:36:01,850 - Loading image and mask
+2025-05-13 10:36:03,276 - Computing shape
+2025-05-13 10:36:03,283 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:36:03,283 - Calculating features for original image
+2025-05-13 10:36:03,292 - Computing firstorder
+2025-05-13 10:36:03,294 - Computing glcm
+2025-05-13 10:36:03,296 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:36:03,296 - Computing gldm
+2025-05-13 10:36:03,297 - Computing glrlm
+2025-05-13 10:36:03,298 - Computing glszm
+2025-05-13 10:36:03,299 - Computing ngtdm
+2025-05-13 10:36:03,300 - Calculating features with label: 3
+2025-05-13 10:36:03,300 - Loading image and mask
+2025-05-13 10:36:04,714 - Computing shape
+2025-05-13 10:36:04,721 - Adding image type "Original" with custom settings: {}
+2025-05-13 10:36:04,721 - Calculating features for original image
+2025-05-13 10:36:04,730 - Computing firstorder
+2025-05-13 10:36:04,733 - Computing glcm
+2025-05-13 10:36:04,734 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 10:36:04,734 - Computing gldm
+2025-05-13 10:36:04,735 - Computing glrlm
+2025-05-13 10:36:04,737 - Computing glszm
+2025-05-13 10:36:04,738 - Computing ngtdm
+2025-05-13 11:00:09,817 - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-05-13 11:00:09,817 - Enabled image types: {'Original': {}}
+2025-05-13 11:00:09,817 - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-05-13 11:00:10,553 - Calculating features with label: 3
+2025-05-13 11:00:10,554 - Loading image and mask
+2025-05-13 11:00:12,100 - Computing shape
+2025-05-13 11:00:12,114 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:12,114 - Calculating features for original image
+2025-05-13 11:00:12,123 - Computing firstorder
+2025-05-13 11:00:12,127 - Computing glcm
+2025-05-13 11:00:12,129 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:12,129 - Computing gldm
+2025-05-13 11:00:12,131 - Computing glrlm
+2025-05-13 11:00:12,133 - Computing glszm
+2025-05-13 11:00:12,135 - Computing ngtdm
+2025-05-13 11:00:12,136 - Calculating features with label: 3
+2025-05-13 11:00:12,136 - Loading image and mask
+2025-05-13 11:00:13,546 - Computing shape
+2025-05-13 11:00:13,556 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:13,556 - Calculating features for original image
+2025-05-13 11:00:13,565 - Computing firstorder
+2025-05-13 11:00:13,568 - Computing glcm
+2025-05-13 11:00:13,570 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:13,570 - Computing gldm
+2025-05-13 11:00:13,571 - Computing glrlm
+2025-05-13 11:00:13,573 - Computing glszm
+2025-05-13 11:00:13,574 - Computing ngtdm
+2025-05-13 11:00:13,576 - Calculating features with label: 3
+2025-05-13 11:00:13,576 - Loading image and mask
+2025-05-13 11:00:15,001 - Computing shape
+2025-05-13 11:00:15,009 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:15,010 - Calculating features for original image
+2025-05-13 11:00:15,018 - Computing firstorder
+2025-05-13 11:00:15,021 - Computing glcm
+2025-05-13 11:00:15,023 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:15,023 - Computing gldm
+2025-05-13 11:00:15,024 - Computing glrlm
+2025-05-13 11:00:15,026 - Computing glszm
+2025-05-13 11:00:15,027 - Computing ngtdm
+2025-05-13 11:00:15,028 - Calculating features with label: 3
+2025-05-13 11:00:15,028 - Loading image and mask
+2025-05-13 11:00:16,510 - Computing shape
+2025-05-13 11:00:16,519 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:16,519 - Calculating features for original image
+2025-05-13 11:00:16,528 - Computing firstorder
+2025-05-13 11:00:16,532 - Computing glcm
+2025-05-13 11:00:16,534 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:16,534 - Computing gldm
+2025-05-13 11:00:16,536 - Computing glrlm
+2025-05-13 11:00:16,538 - Computing glszm
+2025-05-13 11:00:16,540 - Computing ngtdm
+2025-05-13 11:00:17,276 - Calculating features with label: 2
+2025-05-13 11:00:17,276 - Loading image and mask
+2025-05-13 11:00:18,696 - Computing shape
+2025-05-13 11:00:18,703 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:18,703 - Calculating features for original image
+2025-05-13 11:00:18,711 - Computing firstorder
+2025-05-13 11:00:18,713 - Computing glcm
+2025-05-13 11:00:18,714 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:18,714 - Computing gldm
+2025-05-13 11:00:18,715 - Computing glrlm
+2025-05-13 11:00:18,716 - Computing glszm
+2025-05-13 11:00:18,717 - Computing ngtdm
+2025-05-13 11:00:18,718 - Calculating features with label: 3
+2025-05-13 11:00:18,718 - Loading image and mask
+2025-05-13 11:00:20,135 - Computing shape
+2025-05-13 11:00:20,142 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:20,142 - Calculating features for original image
+2025-05-13 11:00:20,150 - Computing firstorder
+2025-05-13 11:00:20,153 - Computing glcm
+2025-05-13 11:00:20,154 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:20,155 - Computing gldm
+2025-05-13 11:00:20,155 - Computing glrlm
+2025-05-13 11:00:20,157 - Computing glszm
+2025-05-13 11:00:20,158 - Computing ngtdm
+2025-05-13 11:00:20,159 - Calculating features with label: 2
+2025-05-13 11:00:20,159 - Loading image and mask
+2025-05-13 11:00:21,546 - Computing shape
+2025-05-13 11:00:21,554 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:21,554 - Calculating features for original image
+2025-05-13 11:00:21,563 - Computing firstorder
+2025-05-13 11:00:21,565 - Computing glcm
+2025-05-13 11:00:21,567 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:21,567 - Computing gldm
+2025-05-13 11:00:21,567 - Computing glrlm
+2025-05-13 11:00:21,569 - Computing glszm
+2025-05-13 11:00:21,570 - Computing ngtdm
+2025-05-13 11:00:21,571 - Calculating features with label: 3
+2025-05-13 11:00:21,572 - Loading image and mask
+2025-05-13 11:00:23,001 - Computing shape
+2025-05-13 11:00:23,008 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:23,009 - Calculating features for original image
+2025-05-13 11:00:23,018 - Computing firstorder
+2025-05-13 11:00:23,021 - Computing glcm
+2025-05-13 11:00:23,022 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:23,022 - Computing gldm
+2025-05-13 11:00:23,023 - Computing glrlm
+2025-05-13 11:00:23,025 - Computing glszm
+2025-05-13 11:00:23,025 - Computing ngtdm
+2025-05-13 11:00:23,027 - Calculating features with label: 2
+2025-05-13 11:00:23,027 - Loading image and mask
+2025-05-13 11:00:24,465 - Computing shape
+2025-05-13 11:00:24,475 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:24,475 - Calculating features for original image
+2025-05-13 11:00:24,484 - Computing firstorder
+2025-05-13 11:00:24,486 - Computing glcm
+2025-05-13 11:00:24,487 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:24,488 - Computing gldm
+2025-05-13 11:00:24,488 - Computing glrlm
+2025-05-13 11:00:24,490 - Computing glszm
+2025-05-13 11:00:24,491 - Computing ngtdm
+2025-05-13 11:00:24,491 - Calculating features with label: 3
+2025-05-13 11:00:24,492 - Loading image and mask
+2025-05-13 11:00:25,982 - Computing shape
+2025-05-13 11:00:25,988 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:25,989 - Calculating features for original image
+2025-05-13 11:00:25,998 - Computing firstorder
+2025-05-13 11:00:26,000 - Computing glcm
+2025-05-13 11:00:26,002 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:26,002 - Computing gldm
+2025-05-13 11:00:26,003 - Computing glrlm
+2025-05-13 11:00:26,004 - Computing glszm
+2025-05-13 11:00:26,005 - Computing ngtdm
+2025-05-13 11:00:26,006 - Calculating features with label: 2
+2025-05-13 11:00:26,006 - Loading image and mask
+2025-05-13 11:00:27,435 - Computing shape
+2025-05-13 11:00:27,442 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:27,442 - Calculating features for original image
+2025-05-13 11:00:27,451 - Computing firstorder
+2025-05-13 11:00:27,452 - Computing glcm
+2025-05-13 11:00:27,454 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:27,454 - Computing gldm
+2025-05-13 11:00:27,455 - Computing glrlm
+2025-05-13 11:00:27,456 - Computing glszm
+2025-05-13 11:00:27,457 - Computing ngtdm
+2025-05-13 11:00:27,458 - Calculating features with label: 3
+2025-05-13 11:00:27,458 - Loading image and mask
+2025-05-13 11:00:28,852 - Computing shape
+2025-05-13 11:00:28,858 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:00:28,858 - Calculating features for original image
+2025-05-13 11:00:28,866 - Computing firstorder
+2025-05-13 11:00:28,869 - Computing glcm
+2025-05-13 11:00:28,870 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:00:28,870 - Computing gldm
+2025-05-13 11:00:28,871 - Computing glrlm
+2025-05-13 11:00:28,873 - Computing glszm
+2025-05-13 11:00:28,874 - Computing ngtdm
+2025-05-13 11:17:26,670 - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-05-13 11:17:26,671 - Enabled image types: {'Original': {}}
+2025-05-13 11:17:26,672 - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-05-13 11:17:27,430 - Calculating features with label: 3
+2025-05-13 11:17:27,430 - Loading image and mask
+2025-05-13 11:17:28,911 - Computing shape
+2025-05-13 11:17:28,924 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:28,924 - Calculating features for original image
+2025-05-13 11:17:28,932 - Computing firstorder
+2025-05-13 11:17:28,936 - Computing glcm
+2025-05-13 11:17:28,938 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:28,938 - Computing gldm
+2025-05-13 11:17:28,939 - Computing glrlm
+2025-05-13 11:17:28,941 - Computing glszm
+2025-05-13 11:17:28,942 - Computing ngtdm
+2025-05-13 11:17:28,943 - Calculating features with label: 3
+2025-05-13 11:17:28,943 - Loading image and mask
+2025-05-13 11:17:30,393 - Computing shape
+2025-05-13 11:17:30,403 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:30,403 - Calculating features for original image
+2025-05-13 11:17:30,412 - Computing firstorder
+2025-05-13 11:17:30,415 - Computing glcm
+2025-05-13 11:17:30,417 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:30,417 - Computing gldm
+2025-05-13 11:17:30,418 - Computing glrlm
+2025-05-13 11:17:30,420 - Computing glszm
+2025-05-13 11:17:30,421 - Computing ngtdm
+2025-05-13 11:17:30,422 - Calculating features with label: 3
+2025-05-13 11:17:30,422 - Loading image and mask
+2025-05-13 11:17:31,848 - Computing shape
+2025-05-13 11:17:31,856 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:31,857 - Calculating features for original image
+2025-05-13 11:17:31,865 - Computing firstorder
+2025-05-13 11:17:31,868 - Computing glcm
+2025-05-13 11:17:31,870 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:31,870 - Computing gldm
+2025-05-13 11:17:31,871 - Computing glrlm
+2025-05-13 11:17:31,873 - Computing glszm
+2025-05-13 11:17:31,874 - Computing ngtdm
+2025-05-13 11:17:31,875 - Calculating features with label: 3
+2025-05-13 11:17:31,875 - Loading image and mask
+2025-05-13 11:17:33,310 - Computing shape
+2025-05-13 11:17:33,318 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:33,318 - Calculating features for original image
+2025-05-13 11:17:33,326 - Computing firstorder
+2025-05-13 11:17:33,329 - Computing glcm
+2025-05-13 11:17:33,330 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:33,331 - Computing gldm
+2025-05-13 11:17:33,332 - Computing glrlm
+2025-05-13 11:17:33,334 - Computing glszm
+2025-05-13 11:17:33,335 - Computing ngtdm
+2025-05-13 11:17:34,063 - Calculating features with label: 2
+2025-05-13 11:17:34,063 - Loading image and mask
+2025-05-13 11:17:35,477 - Computing shape
+2025-05-13 11:17:35,484 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:35,484 - Calculating features for original image
+2025-05-13 11:17:35,498 - Computing firstorder
+2025-05-13 11:17:35,500 - Computing glcm
+2025-05-13 11:17:35,502 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:35,502 - Computing gldm
+2025-05-13 11:17:35,503 - Computing glrlm
+2025-05-13 11:17:35,504 - Computing glszm
+2025-05-13 11:17:35,505 - Computing ngtdm
+2025-05-13 11:17:35,506 - Calculating features with label: 3
+2025-05-13 11:17:35,506 - Loading image and mask
+2025-05-13 11:17:36,953 - Computing shape
+2025-05-13 11:17:36,960 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:36,960 - Calculating features for original image
+2025-05-13 11:17:36,969 - Computing firstorder
+2025-05-13 11:17:36,972 - Computing glcm
+2025-05-13 11:17:36,973 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:36,973 - Computing gldm
+2025-05-13 11:17:36,974 - Computing glrlm
+2025-05-13 11:17:36,976 - Computing glszm
+2025-05-13 11:17:36,977 - Computing ngtdm
+2025-05-13 11:17:36,978 - Calculating features with label: 2
+2025-05-13 11:17:36,978 - Loading image and mask
+2025-05-13 11:17:38,489 - Computing shape
+2025-05-13 11:17:38,496 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:38,497 - Calculating features for original image
+2025-05-13 11:17:38,505 - Computing firstorder
+2025-05-13 11:17:38,508 - Computing glcm
+2025-05-13 11:17:38,509 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:38,509 - Computing gldm
+2025-05-13 11:17:38,510 - Computing glrlm
+2025-05-13 11:17:38,511 - Computing glszm
+2025-05-13 11:17:38,512 - Computing ngtdm
+2025-05-13 11:17:38,513 - Calculating features with label: 3
+2025-05-13 11:17:38,513 - Loading image and mask
+2025-05-13 11:17:39,948 - Computing shape
+2025-05-13 11:17:39,955 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:39,955 - Calculating features for original image
+2025-05-13 11:17:39,963 - Computing firstorder
+2025-05-13 11:17:39,966 - Computing glcm
+2025-05-13 11:17:39,968 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:39,968 - Computing gldm
+2025-05-13 11:17:39,969 - Computing glrlm
+2025-05-13 11:17:39,970 - Computing glszm
+2025-05-13 11:17:39,971 - Computing ngtdm
+2025-05-13 11:17:39,972 - Calculating features with label: 2
+2025-05-13 11:17:39,972 - Loading image and mask
+2025-05-13 11:17:41,393 - Computing shape
+2025-05-13 11:17:41,401 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:41,401 - Calculating features for original image
+2025-05-13 11:17:41,410 - Computing firstorder
+2025-05-13 11:17:41,412 - Computing glcm
+2025-05-13 11:17:41,413 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:41,413 - Computing gldm
+2025-05-13 11:17:41,414 - Computing glrlm
+2025-05-13 11:17:41,415 - Computing glszm
+2025-05-13 11:17:41,416 - Computing ngtdm
+2025-05-13 11:17:41,422 - Calculating features with label: 3
+2025-05-13 11:17:41,423 - Loading image and mask
+2025-05-13 11:17:42,880 - Computing shape
+2025-05-13 11:17:42,888 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:42,888 - Calculating features for original image
+2025-05-13 11:17:42,896 - Computing firstorder
+2025-05-13 11:17:42,899 - Computing glcm
+2025-05-13 11:17:42,900 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:42,901 - Computing gldm
+2025-05-13 11:17:42,902 - Computing glrlm
+2025-05-13 11:17:42,906 - Computing glszm
+2025-05-13 11:17:42,907 - Computing ngtdm
+2025-05-13 11:17:42,908 - Calculating features with label: 2
+2025-05-13 11:17:42,908 - Loading image and mask
+2025-05-13 11:17:44,334 - Computing shape
+2025-05-13 11:17:44,341 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:44,341 - Calculating features for original image
+2025-05-13 11:17:44,350 - Computing firstorder
+2025-05-13 11:17:44,352 - Computing glcm
+2025-05-13 11:17:44,353 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:44,353 - Computing gldm
+2025-05-13 11:17:44,354 - Computing glrlm
+2025-05-13 11:17:44,355 - Computing glszm
+2025-05-13 11:17:44,356 - Computing ngtdm
+2025-05-13 11:17:44,357 - Calculating features with label: 3
+2025-05-13 11:17:44,358 - Loading image and mask
+2025-05-13 11:17:45,803 - Computing shape
+2025-05-13 11:17:45,810 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:17:45,810 - Calculating features for original image
+2025-05-13 11:17:45,818 - Computing firstorder
+2025-05-13 11:17:45,821 - Computing glcm
+2025-05-13 11:17:45,822 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:17:45,822 - Computing gldm
+2025-05-13 11:17:45,823 - Computing glrlm
+2025-05-13 11:17:45,825 - Computing glszm
+2025-05-13 11:17:45,825 - Computing ngtdm
+2025-05-13 11:42:46,693 - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-05-13 11:42:46,693 - Enabled image types: {'Original': {}}
+2025-05-13 11:42:46,693 - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-05-13 11:42:47,452 - Calculating features with label: 3
+2025-05-13 11:42:47,453 - Loading image and mask
+2025-05-13 11:42:48,928 - Computing shape
+2025-05-13 11:42:48,941 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:42:48,942 - Calculating features for original image
+2025-05-13 11:42:48,951 - Computing firstorder
+2025-05-13 11:42:48,956 - Computing glcm
+2025-05-13 11:42:48,958 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:42:48,958 - Computing gldm
+2025-05-13 11:42:48,959 - Computing glrlm
+2025-05-13 11:42:48,961 - Computing glszm
+2025-05-13 11:42:48,962 - Computing ngtdm
+2025-05-13 11:42:48,963 - Calculating features with label: 3
+2025-05-13 11:42:48,963 - Loading image and mask
+2025-05-13 11:42:50,414 - Computing shape
+2025-05-13 11:42:50,422 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:42:50,422 - Calculating features for original image
+2025-05-13 11:42:50,431 - Computing firstorder
+2025-05-13 11:42:50,434 - Computing glcm
+2025-05-13 11:42:50,436 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:42:50,436 - Computing gldm
+2025-05-13 11:42:50,437 - Computing glrlm
+2025-05-13 11:42:50,439 - Computing glszm
+2025-05-13 11:42:50,440 - Computing ngtdm
+2025-05-13 11:42:50,441 - Calculating features with label: 3
+2025-05-13 11:42:50,441 - Loading image and mask
+2025-05-13 11:42:51,892 - Computing shape
+2025-05-13 11:42:51,900 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:42:51,900 - Calculating features for original image
+2025-05-13 11:42:51,909 - Computing firstorder
+2025-05-13 11:42:51,912 - Computing glcm
+2025-05-13 11:42:51,914 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:42:51,914 - Computing gldm
+2025-05-13 11:42:51,915 - Computing glrlm
+2025-05-13 11:42:51,917 - Computing glszm
+2025-05-13 11:42:51,918 - Computing ngtdm
+2025-05-13 11:42:51,920 - Calculating features with label: 3
+2025-05-13 11:42:51,920 - Loading image and mask
+2025-05-13 11:42:53,380 - Computing shape
+2025-05-13 11:42:53,389 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:42:53,389 - Calculating features for original image
+2025-05-13 11:42:53,398 - Computing firstorder
+2025-05-13 11:42:53,401 - Computing glcm
+2025-05-13 11:42:53,403 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:42:53,403 - Computing gldm
+2025-05-13 11:42:53,404 - Computing glrlm
+2025-05-13 11:42:53,406 - Computing glszm
+2025-05-13 11:42:53,407 - Computing ngtdm
+2025-05-13 11:42:54,178 - Calculating features with label: 2
+2025-05-13 11:42:54,178 - Loading image and mask
+2025-05-13 11:42:55,614 - Computing shape
+2025-05-13 11:42:55,622 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:42:55,622 - Calculating features for original image
+2025-05-13 11:42:55,632 - Computing firstorder
+2025-05-13 11:42:55,635 - Computing glcm
+2025-05-13 11:42:55,636 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:42:55,636 - Computing gldm
+2025-05-13 11:42:55,637 - Computing glrlm
+2025-05-13 11:42:55,638 - Computing glszm
+2025-05-13 11:42:55,639 - Computing ngtdm
+2025-05-13 11:42:55,640 - Calculating features with label: 3
+2025-05-13 11:42:55,640 - Loading image and mask
+2025-05-13 11:42:57,075 - Computing shape
+2025-05-13 11:42:57,082 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:42:57,082 - Calculating features for original image
+2025-05-13 11:42:57,091 - Computing firstorder
+2025-05-13 11:42:57,093 - Computing glcm
+2025-05-13 11:42:57,095 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:42:57,095 - Computing gldm
+2025-05-13 11:42:57,096 - Computing glrlm
+2025-05-13 11:42:57,097 - Computing glszm
+2025-05-13 11:42:57,098 - Computing ngtdm
+2025-05-13 11:42:57,099 - Calculating features with label: 2
+2025-05-13 11:42:57,099 - Loading image and mask
+2025-05-13 11:42:58,557 - Computing shape
+2025-05-13 11:42:58,564 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:42:58,565 - Calculating features for original image
+2025-05-13 11:42:58,583 - Computing firstorder
+2025-05-13 11:42:58,585 - Computing glcm
+2025-05-13 11:42:58,587 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:42:58,587 - Computing gldm
+2025-05-13 11:42:58,588 - Computing glrlm
+2025-05-13 11:42:58,589 - Computing glszm
+2025-05-13 11:42:58,590 - Computing ngtdm
+2025-05-13 11:42:58,591 - Calculating features with label: 3
+2025-05-13 11:42:58,591 - Loading image and mask
+2025-05-13 11:42:59,998 - Computing shape
+2025-05-13 11:43:00,005 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:43:00,006 - Calculating features for original image
+2025-05-13 11:43:00,015 - Computing firstorder
+2025-05-13 11:43:00,017 - Computing glcm
+2025-05-13 11:43:00,018 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:43:00,019 - Computing gldm
+2025-05-13 11:43:00,020 - Computing glrlm
+2025-05-13 11:43:00,021 - Computing glszm
+2025-05-13 11:43:00,022 - Computing ngtdm
+2025-05-13 11:43:00,023 - Calculating features with label: 2
+2025-05-13 11:43:00,023 - Loading image and mask
+2025-05-13 11:43:01,456 - Computing shape
+2025-05-13 11:43:01,463 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:43:01,463 - Calculating features for original image
+2025-05-13 11:43:01,472 - Computing firstorder
+2025-05-13 11:43:01,474 - Computing glcm
+2025-05-13 11:43:01,476 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:43:01,476 - Computing gldm
+2025-05-13 11:43:01,477 - Computing glrlm
+2025-05-13 11:43:01,478 - Computing glszm
+2025-05-13 11:43:01,479 - Computing ngtdm
+2025-05-13 11:43:01,480 - Calculating features with label: 3
+2025-05-13 11:43:01,480 - Loading image and mask
+2025-05-13 11:43:02,905 - Computing shape
+2025-05-13 11:43:02,912 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:43:02,912 - Calculating features for original image
+2025-05-13 11:43:02,920 - Computing firstorder
+2025-05-13 11:43:02,923 - Computing glcm
+2025-05-13 11:43:02,924 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:43:02,925 - Computing gldm
+2025-05-13 11:43:02,926 - Computing glrlm
+2025-05-13 11:43:02,927 - Computing glszm
+2025-05-13 11:43:02,928 - Computing ngtdm
+2025-05-13 11:43:02,929 - Calculating features with label: 2
+2025-05-13 11:43:02,929 - Loading image and mask
+2025-05-13 11:43:04,371 - Computing shape
+2025-05-13 11:43:04,379 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:43:04,379 - Calculating features for original image
+2025-05-13 11:43:04,388 - Computing firstorder
+2025-05-13 11:43:04,390 - Computing glcm
+2025-05-13 11:43:04,392 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:43:04,392 - Computing gldm
+2025-05-13 11:43:04,393 - Computing glrlm
+2025-05-13 11:43:04,395 - Computing glszm
+2025-05-13 11:43:04,395 - Computing ngtdm
+2025-05-13 11:43:04,397 - Calculating features with label: 3
+2025-05-13 11:43:04,397 - Loading image and mask
+2025-05-13 11:43:05,890 - Computing shape
+2025-05-13 11:43:05,897 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:43:05,897 - Calculating features for original image
+2025-05-13 11:43:05,907 - Computing firstorder
+2025-05-13 11:43:05,909 - Computing glcm
+2025-05-13 11:43:05,911 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:43:05,911 - Computing gldm
+2025-05-13 11:43:05,912 - Computing glrlm
+2025-05-13 11:43:05,913 - Computing glszm
+2025-05-13 11:43:05,914 - Computing ngtdm
+2025-05-13 11:53:53,573 - No valid config parameter, using defaults: {'minimumROIDimensions': 2, 'minimumROISize': None, 'normalize': False, 'normalizeScale': 1, 'removeOutliers': None, 'resampledPixelSpacing': None, 'interpolator': 'sitkBSpline', 'preCrop': False, 'padDistance': 5, 'distances': [1], 'force2D': False, 'force2Ddimension': 0, 'resegmentRange': None, 'label': 1, 'additionalInfo': True}
+2025-05-13 11:53:53,573 - Enabled image types: {'Original': {}}
+2025-05-13 11:53:53,573 - Enabled features: {'firstorder': [], 'glcm': [], 'gldm': [], 'glrlm': [], 'glszm': [], 'ngtdm': [], 'shape': []}
+2025-05-13 11:53:54,303 - Calculating features with label: 3
+2025-05-13 11:53:54,303 - Loading image and mask
+2025-05-13 11:53:55,741 - Computing shape
+2025-05-13 11:53:55,747 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:53:55,748 - Calculating features for original image
+2025-05-13 11:53:55,756 - Computing firstorder
+2025-05-13 11:53:55,758 - Computing glcm
+2025-05-13 11:53:55,759 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:53:55,760 - Computing gldm
+2025-05-13 11:53:55,760 - Computing glrlm
+2025-05-13 11:53:55,761 - Computing glszm
+2025-05-13 11:53:55,762 - Computing ngtdm
+2025-05-13 11:53:55,763 - Calculating features with label: 3
+2025-05-13 11:53:55,763 - Loading image and mask
+2025-05-13 11:53:57,168 - Computing shape
+2025-05-13 11:53:57,174 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:53:57,174 - Calculating features for original image
+2025-05-13 11:53:57,182 - Computing firstorder
+2025-05-13 11:53:57,185 - Computing glcm
+2025-05-13 11:53:57,186 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:53:57,186 - Computing gldm
+2025-05-13 11:53:57,187 - Computing glrlm
+2025-05-13 11:53:57,188 - Computing glszm
+2025-05-13 11:53:57,188 - Computing ngtdm
+2025-05-13 11:53:57,189 - Calculating features with label: 3
+2025-05-13 11:53:57,189 - Loading image and mask
+2025-05-13 11:53:58,596 - Computing shape
+2025-05-13 11:53:58,602 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:53:58,602 - Calculating features for original image
+2025-05-13 11:53:58,611 - Computing firstorder
+2025-05-13 11:53:58,613 - Computing glcm
+2025-05-13 11:53:58,614 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:53:58,614 - Computing gldm
+2025-05-13 11:53:58,615 - Computing glrlm
+2025-05-13 11:53:58,616 - Computing glszm
+2025-05-13 11:53:58,616 - Computing ngtdm
+2025-05-13 11:53:58,617 - Calculating features with label: 3
+2025-05-13 11:53:58,618 - Loading image and mask
+2025-05-13 11:54:00,083 - Computing shape
+2025-05-13 11:54:00,093 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:00,093 - Calculating features for original image
+2025-05-13 11:54:00,101 - Computing firstorder
+2025-05-13 11:54:00,104 - Computing glcm
+2025-05-13 11:54:00,105 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:00,105 - Computing gldm
+2025-05-13 11:54:00,106 - Computing glrlm
+2025-05-13 11:54:00,107 - Computing glszm
+2025-05-13 11:54:00,107 - Computing ngtdm
+2025-05-13 11:54:00,834 - Calculating features with label: 1
+2025-05-13 11:54:00,834 - Loading image and mask
+2025-05-13 11:54:02,265 - Computing shape
+2025-05-13 11:54:02,271 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:02,271 - Calculating features for original image
+2025-05-13 11:54:02,279 - Computing firstorder
+2025-05-13 11:54:02,281 - Computing glcm
+2025-05-13 11:54:02,282 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:02,282 - Computing gldm
+2025-05-13 11:54:02,283 - Computing glrlm
+2025-05-13 11:54:02,283 - Computing glszm
+2025-05-13 11:54:02,284 - Computing ngtdm
+2025-05-13 11:54:02,285 - Calculating features with label: 2
+2025-05-13 11:54:02,285 - Loading image and mask
+2025-05-13 11:54:03,716 - Computing shape
+2025-05-13 11:54:03,847 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:03,848 - Calculating features for original image
+2025-05-13 11:54:03,856 - Computing firstorder
+2025-05-13 11:54:03,873 - Computing glcm
+2025-05-13 11:54:03,882 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:03,883 - Computing gldm
+2025-05-13 11:54:03,892 - Computing glrlm
+2025-05-13 11:54:03,908 - Computing glszm
+2025-05-13 11:54:03,917 - Computing ngtdm
+2025-05-13 11:54:03,926 - Calculating features with label: 3
+2025-05-13 11:54:03,926 - Loading image and mask
+2025-05-13 11:54:05,406 - Computing shape
+2025-05-13 11:54:05,437 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:05,437 - Calculating features for original image
+2025-05-13 11:54:05,445 - Computing firstorder
+2025-05-13 11:54:05,452 - Computing glcm
+2025-05-13 11:54:05,457 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:05,457 - Computing gldm
+2025-05-13 11:54:05,461 - Computing glrlm
+2025-05-13 11:54:05,466 - Computing glszm
+2025-05-13 11:54:05,470 - Computing ngtdm
+2025-05-13 11:54:05,474 - Calculating features with label: 1
+2025-05-13 11:54:05,474 - Loading image and mask
+2025-05-13 11:54:06,911 - Computing shape
+2025-05-13 11:54:06,916 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:06,916 - Calculating features for original image
+2025-05-13 11:54:06,926 - Computing firstorder
+2025-05-13 11:54:06,928 - Computing glcm
+2025-05-13 11:54:06,929 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:06,930 - Computing gldm
+2025-05-13 11:54:06,930 - Computing glrlm
+2025-05-13 11:54:06,931 - Computing glszm
+2025-05-13 11:54:06,931 - Computing ngtdm
+2025-05-13 11:54:06,932 - Calculating features with label: 2
+2025-05-13 11:54:06,932 - Loading image and mask
+2025-05-13 11:54:08,368 - Computing shape
+2025-05-13 11:54:08,501 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:08,501 - Calculating features for original image
+2025-05-13 11:54:08,510 - Computing firstorder
+2025-05-13 11:54:08,527 - Computing glcm
+2025-05-13 11:54:08,537 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:08,537 - Computing gldm
+2025-05-13 11:54:08,546 - Computing glrlm
+2025-05-13 11:54:08,562 - Computing glszm
+2025-05-13 11:54:08,572 - Computing ngtdm
+2025-05-13 11:54:08,580 - Calculating features with label: 3
+2025-05-13 11:54:08,580 - Loading image and mask
+2025-05-13 11:54:10,030 - Computing shape
+2025-05-13 11:54:10,061 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:10,061 - Calculating features for original image
+2025-05-13 11:54:10,070 - Computing firstorder
+2025-05-13 11:54:10,080 - Computing glcm
+2025-05-13 11:54:10,086 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:10,086 - Computing gldm
+2025-05-13 11:54:10,092 - Computing glrlm
+2025-05-13 11:54:10,099 - Computing glszm
+2025-05-13 11:54:10,105 - Computing ngtdm
+2025-05-13 11:54:10,109 - Calculating features with label: 1
+2025-05-13 11:54:10,109 - Loading image and mask
+2025-05-13 11:54:11,527 - Computing shape
+2025-05-13 11:54:11,533 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:11,533 - Calculating features for original image
+2025-05-13 11:54:11,542 - Computing firstorder
+2025-05-13 11:54:11,544 - Computing glcm
+2025-05-13 11:54:11,546 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:11,546 - Computing gldm
+2025-05-13 11:54:11,546 - Computing glrlm
+2025-05-13 11:54:11,547 - Computing glszm
+2025-05-13 11:54:11,548 - Computing ngtdm
+2025-05-13 11:54:11,548 - Calculating features with label: 2
+2025-05-13 11:54:11,549 - Loading image and mask
+2025-05-13 11:54:12,981 - Computing shape
+2025-05-13 11:54:13,109 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:13,109 - Calculating features for original image
+2025-05-13 11:54:13,119 - Computing firstorder
+2025-05-13 11:54:13,136 - Computing glcm
+2025-05-13 11:54:13,149 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:13,150 - Computing gldm
+2025-05-13 11:54:13,160 - Computing glrlm
+2025-05-13 11:54:13,177 - Computing glszm
+2025-05-13 11:54:13,186 - Computing ngtdm
+2025-05-13 11:54:13,194 - Calculating features with label: 3
+2025-05-13 11:54:13,195 - Loading image and mask
+2025-05-13 11:54:14,632 - Computing shape
+2025-05-13 11:54:14,664 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:14,664 - Calculating features for original image
+2025-05-13 11:54:14,673 - Computing firstorder
+2025-05-13 11:54:14,682 - Computing glcm
+2025-05-13 11:54:14,687 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:14,687 - Computing gldm
+2025-05-13 11:54:14,691 - Computing glrlm
+2025-05-13 11:54:14,696 - Computing glszm
+2025-05-13 11:54:14,700 - Computing ngtdm
+2025-05-13 11:54:14,703 - Calculating features with label: 1
+2025-05-13 11:54:14,703 - Loading image and mask
+2025-05-13 11:54:16,126 - Computing shape
+2025-05-13 11:54:16,131 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:16,131 - Calculating features for original image
+2025-05-13 11:54:16,141 - Computing firstorder
+2025-05-13 11:54:16,143 - Computing glcm
+2025-05-13 11:54:16,145 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:16,145 - Computing gldm
+2025-05-13 11:54:16,146 - Computing glrlm
+2025-05-13 11:54:16,147 - Computing glszm
+2025-05-13 11:54:16,148 - Computing ngtdm
+2025-05-13 11:54:16,149 - Calculating features with label: 2
+2025-05-13 11:54:16,149 - Loading image and mask
+2025-05-13 11:54:17,595 - Computing shape
+2025-05-13 11:54:17,728 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:17,728 - Calculating features for original image
+2025-05-13 11:54:17,738 - Computing firstorder
+2025-05-13 11:54:17,754 - Computing glcm
+2025-05-13 11:54:17,765 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:17,765 - Computing gldm
+2025-05-13 11:54:17,774 - Computing glrlm
+2025-05-13 11:54:17,791 - Computing glszm
+2025-05-13 11:54:17,800 - Computing ngtdm
+2025-05-13 11:54:17,808 - Calculating features with label: 3
+2025-05-13 11:54:17,808 - Loading image and mask
+2025-05-13 11:54:19,238 - Computing shape
+2025-05-13 11:54:19,267 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:19,268 - Calculating features for original image
+2025-05-13 11:54:19,277 - Computing firstorder
+2025-05-13 11:54:19,284 - Computing glcm
+2025-05-13 11:54:19,289 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:19,290 - Computing gldm
+2025-05-13 11:54:19,293 - Computing glrlm
+2025-05-13 11:54:19,299 - Computing glszm
+2025-05-13 11:54:19,302 - Computing ngtdm
+2025-05-13 11:54:20,035 - Calculating features with label: 3
+2025-05-13 11:54:20,035 - Loading image and mask
+2025-05-13 11:54:21,466 - Computing shape
+2025-05-13 11:54:21,474 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:21,474 - Calculating features for original image
+2025-05-13 11:54:21,484 - Computing firstorder
+2025-05-13 11:54:21,486 - Computing glcm
+2025-05-13 11:54:21,488 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:21,489 - Computing gldm
+2025-05-13 11:54:21,490 - Computing glrlm
+2025-05-13 11:54:21,491 - Computing glszm
+2025-05-13 11:54:21,492 - Computing ngtdm
+2025-05-13 11:54:21,494 - Calculating features with label: 3
+2025-05-13 11:54:21,494 - Loading image and mask
+2025-05-13 11:54:23,006 - Computing shape
+2025-05-13 11:54:23,014 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:23,015 - Calculating features for original image
+2025-05-13 11:54:23,024 - Computing firstorder
+2025-05-13 11:54:23,027 - Computing glcm
+2025-05-13 11:54:23,028 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:23,029 - Computing gldm
+2025-05-13 11:54:23,030 - Computing glrlm
+2025-05-13 11:54:23,032 - Computing glszm
+2025-05-13 11:54:23,033 - Computing ngtdm
+2025-05-13 11:54:23,034 - Calculating features with label: 3
+2025-05-13 11:54:23,034 - Loading image and mask
+2025-05-13 11:54:24,456 - Computing shape
+2025-05-13 11:54:24,466 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:24,467 - Calculating features for original image
+2025-05-13 11:54:24,477 - Computing firstorder
+2025-05-13 11:54:24,480 - Computing glcm
+2025-05-13 11:54:24,482 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:24,482 - Computing gldm
+2025-05-13 11:54:24,483 - Computing glrlm
+2025-05-13 11:54:24,485 - Computing glszm
+2025-05-13 11:54:24,486 - Computing ngtdm
+2025-05-13 11:54:24,487 - Calculating features with label: 3
+2025-05-13 11:54:24,487 - Loading image and mask
+2025-05-13 11:54:25,937 - Computing shape
+2025-05-13 11:54:25,946 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:25,946 - Calculating features for original image
+2025-05-13 11:54:25,955 - Computing firstorder
+2025-05-13 11:54:25,958 - Computing glcm
+2025-05-13 11:54:25,960 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:25,960 - Computing gldm
+2025-05-13 11:54:25,961 - Computing glrlm
+2025-05-13 11:54:25,963 - Computing glszm
+2025-05-13 11:54:25,964 - Computing ngtdm
+2025-05-13 11:54:26,779 - Calculating features with label: 2
+2025-05-13 11:54:26,779 - Loading image and mask
+2025-05-13 11:54:28,250 - Computing shape
+2025-05-13 11:54:28,258 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:28,258 - Calculating features for original image
+2025-05-13 11:54:28,268 - Computing firstorder
+2025-05-13 11:54:28,270 - Computing glcm
+2025-05-13 11:54:28,271 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:28,272 - Computing gldm
+2025-05-13 11:54:28,272 - Computing glrlm
+2025-05-13 11:54:28,274 - Computing glszm
+2025-05-13 11:54:28,274 - Computing ngtdm
+2025-05-13 11:54:28,275 - Calculating features with label: 3
+2025-05-13 11:54:28,275 - Loading image and mask
+2025-05-13 11:54:29,699 - Computing shape
+2025-05-13 11:54:29,706 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:29,706 - Calculating features for original image
+2025-05-13 11:54:29,715 - Computing firstorder
+2025-05-13 11:54:29,717 - Computing glcm
+2025-05-13 11:54:29,719 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:29,720 - Computing gldm
+2025-05-13 11:54:29,721 - Computing glrlm
+2025-05-13 11:54:29,722 - Computing glszm
+2025-05-13 11:54:29,723 - Computing ngtdm
+2025-05-13 11:54:29,724 - Calculating features with label: 2
+2025-05-13 11:54:29,724 - Loading image and mask
+2025-05-13 11:54:31,204 - Computing shape
+2025-05-13 11:54:31,211 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:31,211 - Calculating features for original image
+2025-05-13 11:54:31,221 - Computing firstorder
+2025-05-13 11:54:31,223 - Computing glcm
+2025-05-13 11:54:31,224 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:31,224 - Computing gldm
+2025-05-13 11:54:31,225 - Computing glrlm
+2025-05-13 11:54:31,227 - Computing glszm
+2025-05-13 11:54:31,227 - Computing ngtdm
+2025-05-13 11:54:31,229 - Calculating features with label: 3
+2025-05-13 11:54:31,229 - Loading image and mask
+2025-05-13 11:54:32,685 - Computing shape
+2025-05-13 11:54:32,692 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:32,693 - Calculating features for original image
+2025-05-13 11:54:32,701 - Computing firstorder
+2025-05-13 11:54:32,703 - Computing glcm
+2025-05-13 11:54:32,705 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:32,705 - Computing gldm
+2025-05-13 11:54:32,706 - Computing glrlm
+2025-05-13 11:54:32,707 - Computing glszm
+2025-05-13 11:54:32,708 - Computing ngtdm
+2025-05-13 11:54:32,710 - Calculating features with label: 2
+2025-05-13 11:54:32,710 - Loading image and mask
+2025-05-13 11:54:34,150 - Computing shape
+2025-05-13 11:54:34,158 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:34,158 - Calculating features for original image
+2025-05-13 11:54:34,167 - Computing firstorder
+2025-05-13 11:54:34,169 - Computing glcm
+2025-05-13 11:54:34,171 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:34,171 - Computing gldm
+2025-05-13 11:54:34,172 - Computing glrlm
+2025-05-13 11:54:34,173 - Computing glszm
+2025-05-13 11:54:34,174 - Computing ngtdm
+2025-05-13 11:54:34,175 - Calculating features with label: 3
+2025-05-13 11:54:34,175 - Loading image and mask
+2025-05-13 11:54:35,595 - Computing shape
+2025-05-13 11:54:35,603 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:35,603 - Calculating features for original image
+2025-05-13 11:54:35,612 - Computing firstorder
+2025-05-13 11:54:35,615 - Computing glcm
+2025-05-13 11:54:35,616 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:35,617 - Computing gldm
+2025-05-13 11:54:35,617 - Computing glrlm
+2025-05-13 11:54:35,619 - Computing glszm
+2025-05-13 11:54:35,620 - Computing ngtdm
+2025-05-13 11:54:35,621 - Calculating features with label: 2
+2025-05-13 11:54:35,621 - Loading image and mask
+2025-05-13 11:54:37,196 - Computing shape
+2025-05-13 11:54:37,204 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:37,204 - Calculating features for original image
+2025-05-13 11:54:37,212 - Computing firstorder
+2025-05-13 11:54:37,214 - Computing glcm
+2025-05-13 11:54:37,215 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:37,216 - Computing gldm
+2025-05-13 11:54:37,216 - Computing glrlm
+2025-05-13 11:54:37,218 - Computing glszm
+2025-05-13 11:54:37,218 - Computing ngtdm
+2025-05-13 11:54:37,219 - Calculating features with label: 3
+2025-05-13 11:54:37,220 - Loading image and mask
+2025-05-13 11:54:38,642 - Computing shape
+2025-05-13 11:54:38,649 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:38,649 - Calculating features for original image
+2025-05-13 11:54:38,658 - Computing firstorder
+2025-05-13 11:54:38,661 - Computing glcm
+2025-05-13 11:54:38,662 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:38,662 - Computing gldm
+2025-05-13 11:54:38,663 - Computing glrlm
+2025-05-13 11:54:38,665 - Computing glszm
+2025-05-13 11:54:38,665 - Computing ngtdm
+2025-05-13 11:54:39,436 - Calculating features with label: 1
+2025-05-13 11:54:39,436 - Loading image and mask
+2025-05-13 11:54:40,891 - Computing shape
+2025-05-13 11:54:40,935 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:40,935 - Calculating features for original image
+2025-05-13 11:54:40,947 - Computing firstorder
+2025-05-13 11:54:40,955 - Computing glcm
+2025-05-13 11:54:40,959 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:40,959 - Computing gldm
+2025-05-13 11:54:40,963 - Computing glrlm
+2025-05-13 11:54:40,970 - Computing glszm
+2025-05-13 11:54:40,973 - Computing ngtdm
+2025-05-13 11:54:40,977 - Calculating features with label: 2
+2025-05-13 11:54:40,977 - Loading image and mask
+2025-05-13 11:54:42,442 - Computing shape
+2025-05-13 11:54:43,578 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:43,578 - Calculating features for original image
+2025-05-13 11:54:43,588 - Computing firstorder
+2025-05-13 11:54:43,628 - Computing glcm
+2025-05-13 11:54:43,653 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:43,654 - Computing gldm
+2025-05-13 11:54:43,680 - Computing glrlm
+2025-05-13 11:54:43,744 - Computing glszm
+2025-05-13 11:54:43,770 - Computing ngtdm
+2025-05-13 11:54:43,793 - Calculating features with label: 3
+2025-05-13 11:54:43,793 - Loading image and mask
+2025-05-13 11:54:45,237 - Computing shape
+2025-05-13 11:54:45,466 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:45,466 - Calculating features for original image
+2025-05-13 11:54:45,475 - Computing firstorder
+2025-05-13 11:54:45,483 - Computing glcm
+2025-05-13 11:54:45,489 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:45,489 - Computing gldm
+2025-05-13 11:54:45,494 - Computing glrlm
+2025-05-13 11:54:45,505 - Computing glszm
+2025-05-13 11:54:45,509 - Computing ngtdm
+2025-05-13 11:54:45,514 - Calculating features with label: 1
+2025-05-13 11:54:45,514 - Loading image and mask
+2025-05-13 11:54:46,971 - Computing shape
+2025-05-13 11:54:47,023 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:47,023 - Calculating features for original image
+2025-05-13 11:54:47,033 - Computing firstorder
+2025-05-13 11:54:47,040 - Computing glcm
+2025-05-13 11:54:47,044 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:47,044 - Computing gldm
+2025-05-13 11:54:47,047 - Computing glrlm
+2025-05-13 11:54:47,055 - Computing glszm
+2025-05-13 11:54:47,059 - Computing ngtdm
+2025-05-13 11:54:47,063 - Calculating features with label: 2
+2025-05-13 11:54:47,063 - Loading image and mask
+2025-05-13 11:54:48,503 - Computing shape
+2025-05-13 11:54:49,706 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:49,707 - Calculating features for original image
+2025-05-13 11:54:49,717 - Computing firstorder
+2025-05-13 11:54:49,760 - Computing glcm
+2025-05-13 11:54:49,786 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:49,787 - Computing gldm
+2025-05-13 11:54:49,811 - Computing glrlm
+2025-05-13 11:54:49,868 - Computing glszm
+2025-05-13 11:54:49,892 - Computing ngtdm
+2025-05-13 11:54:49,916 - Calculating features with label: 3
+2025-05-13 11:54:49,916 - Loading image and mask
+2025-05-13 11:54:51,412 - Computing shape
+2025-05-13 11:54:51,636 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:51,636 - Calculating features for original image
+2025-05-13 11:54:51,646 - Computing firstorder
+2025-05-13 11:54:51,655 - Computing glcm
+2025-05-13 11:54:51,660 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:51,661 - Computing gldm
+2025-05-13 11:54:51,666 - Computing glrlm
+2025-05-13 11:54:51,676 - Computing glszm
+2025-05-13 11:54:51,681 - Computing ngtdm
+2025-05-13 11:54:51,686 - Calculating features with label: 1
+2025-05-13 11:54:51,686 - Loading image and mask
+2025-05-13 11:54:53,142 - Computing shape
+2025-05-13 11:54:53,197 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:53,197 - Calculating features for original image
+2025-05-13 11:54:53,207 - Computing firstorder
+2025-05-13 11:54:53,213 - Computing glcm
+2025-05-13 11:54:53,217 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:53,217 - Computing gldm
+2025-05-13 11:54:53,221 - Computing glrlm
+2025-05-13 11:54:53,228 - Computing glszm
+2025-05-13 11:54:53,231 - Computing ngtdm
+2025-05-13 11:54:53,235 - Calculating features with label: 2
+2025-05-13 11:54:53,235 - Loading image and mask
+2025-05-13 11:54:54,662 - Computing shape
+2025-05-13 11:54:55,758 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:55,758 - Calculating features for original image
+2025-05-13 11:54:55,768 - Computing firstorder
+2025-05-13 11:54:55,803 - Computing glcm
+2025-05-13 11:54:55,829 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:55,829 - Computing gldm
+2025-05-13 11:54:55,858 - Computing glrlm
+2025-05-13 11:54:55,915 - Computing glszm
+2025-05-13 11:54:55,939 - Computing ngtdm
+2025-05-13 11:54:55,962 - Calculating features with label: 3
+2025-05-13 11:54:55,962 - Loading image and mask
+2025-05-13 11:54:57,405 - Computing shape
+2025-05-13 11:54:57,629 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:57,629 - Calculating features for original image
+2025-05-13 11:54:57,639 - Computing firstorder
+2025-05-13 11:54:57,648 - Computing glcm
+2025-05-13 11:54:57,653 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:57,653 - Computing gldm
+2025-05-13 11:54:57,658 - Computing glrlm
+2025-05-13 11:54:57,669 - Computing glszm
+2025-05-13 11:54:57,674 - Computing ngtdm
+2025-05-13 11:54:57,679 - Calculating features with label: 1
+2025-05-13 11:54:57,679 - Loading image and mask
+2025-05-13 11:54:59,134 - Computing shape
+2025-05-13 11:54:59,177 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:54:59,177 - Calculating features for original image
+2025-05-13 11:54:59,187 - Computing firstorder
+2025-05-13 11:54:59,192 - Computing glcm
+2025-05-13 11:54:59,196 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:54:59,196 - Computing gldm
+2025-05-13 11:54:59,200 - Computing glrlm
+2025-05-13 11:54:59,207 - Computing glszm
+2025-05-13 11:54:59,210 - Computing ngtdm
+2025-05-13 11:54:59,214 - Calculating features with label: 2
+2025-05-13 11:54:59,214 - Loading image and mask
+2025-05-13 11:55:00,688 - Computing shape
+2025-05-13 11:55:01,821 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:01,821 - Calculating features for original image
+2025-05-13 11:55:01,832 - Computing firstorder
+2025-05-13 11:55:01,868 - Computing glcm
+2025-05-13 11:55:01,892 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:01,893 - Computing gldm
+2025-05-13 11:55:01,917 - Computing glrlm
+2025-05-13 11:55:01,975 - Computing glszm
+2025-05-13 11:55:01,999 - Computing ngtdm
+2025-05-13 11:55:02,022 - Calculating features with label: 3
+2025-05-13 11:55:02,022 - Loading image and mask
+2025-05-13 11:55:03,514 - Computing shape
+2025-05-13 11:55:03,745 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:03,745 - Calculating features for original image
+2025-05-13 11:55:03,755 - Computing firstorder
+2025-05-13 11:55:03,765 - Computing glcm
+2025-05-13 11:55:03,770 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:03,771 - Computing gldm
+2025-05-13 11:55:03,775 - Computing glrlm
+2025-05-13 11:55:03,786 - Computing glszm
+2025-05-13 11:55:03,790 - Computing ngtdm
+2025-05-13 11:55:04,540 - Calculating features with label: 2
+2025-05-13 11:55:04,540 - Loading image and mask
+2025-05-13 11:55:05,964 - Computing shape
+2025-05-13 11:55:06,094 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:06,094 - Calculating features for original image
+2025-05-13 11:55:06,104 - Computing firstorder
+2025-05-13 11:55:06,116 - Computing glcm
+2025-05-13 11:55:06,123 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:06,124 - Computing gldm
+2025-05-13 11:55:06,132 - Computing glrlm
+2025-05-13 11:55:06,154 - Computing glszm
+2025-05-13 11:55:06,162 - Computing ngtdm
+2025-05-13 11:55:06,170 - Calculating features with label: 3
+2025-05-13 11:55:06,170 - Loading image and mask
+2025-05-13 11:55:07,603 - Computing shape
+2025-05-13 11:55:07,891 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:07,892 - Calculating features for original image
+2025-05-13 11:55:07,902 - Computing firstorder
+2025-05-13 11:55:07,944 - Computing glcm
+2025-05-13 11:55:07,968 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:07,969 - Computing gldm
+2025-05-13 11:55:07,990 - Computing glrlm
+2025-05-13 11:55:08,018 - Computing glszm
+2025-05-13 11:55:08,039 - Computing ngtdm
+2025-05-13 11:55:08,058 - Calculating features with label: 2
+2025-05-13 11:55:08,058 - Loading image and mask
+2025-05-13 11:55:09,531 - Computing shape
+2025-05-13 11:55:09,668 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:09,668 - Calculating features for original image
+2025-05-13 11:55:09,677 - Computing firstorder
+2025-05-13 11:55:09,689 - Computing glcm
+2025-05-13 11:55:09,696 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:09,696 - Computing gldm
+2025-05-13 11:55:09,703 - Computing glrlm
+2025-05-13 11:55:09,725 - Computing glszm
+2025-05-13 11:55:09,732 - Computing ngtdm
+2025-05-13 11:55:09,739 - Calculating features with label: 3
+2025-05-13 11:55:09,739 - Loading image and mask
+2025-05-13 11:55:11,168 - Computing shape
+2025-05-13 11:55:11,526 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:11,526 - Calculating features for original image
+2025-05-13 11:55:11,537 - Computing firstorder
+2025-05-13 11:55:11,577 - Computing glcm
+2025-05-13 11:55:11,599 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:11,600 - Computing gldm
+2025-05-13 11:55:11,621 - Computing glrlm
+2025-05-13 11:55:11,649 - Computing glszm
+2025-05-13 11:55:11,670 - Computing ngtdm
+2025-05-13 11:55:11,689 - Calculating features with label: 2
+2025-05-13 11:55:11,689 - Loading image and mask
+2025-05-13 11:55:13,106 - Computing shape
+2025-05-13 11:55:13,238 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:13,239 - Calculating features for original image
+2025-05-13 11:55:13,248 - Computing firstorder
+2025-05-13 11:55:13,258 - Computing glcm
+2025-05-13 11:55:13,266 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:13,266 - Computing gldm
+2025-05-13 11:55:13,273 - Computing glrlm
+2025-05-13 11:55:13,295 - Computing glszm
+2025-05-13 11:55:13,302 - Computing ngtdm
+2025-05-13 11:55:13,309 - Calculating features with label: 3
+2025-05-13 11:55:13,309 - Loading image and mask
+2025-05-13 11:55:14,758 - Computing shape
+2025-05-13 11:55:15,044 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:15,045 - Calculating features for original image
+2025-05-13 11:55:15,054 - Computing firstorder
+2025-05-13 11:55:15,095 - Computing glcm
+2025-05-13 11:55:15,118 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:15,118 - Computing gldm
+2025-05-13 11:55:15,139 - Computing glrlm
+2025-05-13 11:55:15,167 - Computing glszm
+2025-05-13 11:55:15,188 - Computing ngtdm
+2025-05-13 11:55:15,207 - Calculating features with label: 2
+2025-05-13 11:55:15,207 - Loading image and mask
+2025-05-13 11:55:16,631 - Computing shape
+2025-05-13 11:55:16,760 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:16,761 - Calculating features for original image
+2025-05-13 11:55:16,770 - Computing firstorder
+2025-05-13 11:55:16,781 - Computing glcm
+2025-05-13 11:55:16,788 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:16,789 - Computing gldm
+2025-05-13 11:55:16,796 - Computing glrlm
+2025-05-13 11:55:16,817 - Computing glszm
+2025-05-13 11:55:16,824 - Computing ngtdm
+2025-05-13 11:55:16,831 - Calculating features with label: 3
+2025-05-13 11:55:16,832 - Loading image and mask
+2025-05-13 11:55:18,538 - Computing shape
+2025-05-13 11:55:18,821 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:18,822 - Calculating features for original image
+2025-05-13 11:55:18,830 - Computing firstorder
+2025-05-13 11:55:18,870 - Computing glcm
+2025-05-13 11:55:18,892 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:18,892 - Computing gldm
+2025-05-13 11:55:18,913 - Computing glrlm
+2025-05-13 11:55:18,940 - Computing glszm
+2025-05-13 11:55:18,961 - Computing ngtdm
+2025-05-13 11:55:19,703 - Calculating features with label: 3
+2025-05-13 11:55:19,703 - Loading image and mask
+2025-05-13 11:55:21,129 - Computing shape
+2025-05-13 11:55:21,135 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:21,135 - Calculating features for original image
+2025-05-13 11:55:21,144 - Computing firstorder
+2025-05-13 11:55:21,147 - Computing glcm
+2025-05-13 11:55:21,148 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:21,148 - Computing gldm
+2025-05-13 11:55:21,149 - Computing glrlm
+2025-05-13 11:55:21,150 - Computing glszm
+2025-05-13 11:55:21,150 - Computing ngtdm
+2025-05-13 11:55:21,151 - Calculating features with label: 3
+2025-05-13 11:55:21,151 - Loading image and mask
+2025-05-13 11:55:22,657 - Computing shape
+2025-05-13 11:55:22,663 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:22,663 - Calculating features for original image
+2025-05-13 11:55:22,672 - Computing firstorder
+2025-05-13 11:55:22,674 - Computing glcm
+2025-05-13 11:55:22,675 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:22,675 - Computing gldm
+2025-05-13 11:55:22,676 - Computing glrlm
+2025-05-13 11:55:22,677 - Computing glszm
+2025-05-13 11:55:22,678 - Computing ngtdm
+2025-05-13 11:55:22,678 - Calculating features with label: 3
+2025-05-13 11:55:22,679 - Loading image and mask
+2025-05-13 11:55:24,099 - Computing shape
+2025-05-13 11:55:24,104 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:24,104 - Calculating features for original image
+2025-05-13 11:55:24,113 - Computing firstorder
+2025-05-13 11:55:24,116 - Computing glcm
+2025-05-13 11:55:24,117 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:24,118 - Computing gldm
+2025-05-13 11:55:24,118 - Computing glrlm
+2025-05-13 11:55:24,119 - Computing glszm
+2025-05-13 11:55:24,120 - Computing ngtdm
+2025-05-13 11:55:24,121 - Calculating features with label: 3
+2025-05-13 11:55:24,121 - Loading image and mask
+2025-05-13 11:55:25,550 - Computing shape
+2025-05-13 11:55:25,555 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:25,555 - Calculating features for original image
+2025-05-13 11:55:25,565 - Computing firstorder
+2025-05-13 11:55:25,567 - Computing glcm
+2025-05-13 11:55:25,568 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:25,568 - Computing gldm
+2025-05-13 11:55:25,569 - Computing glrlm
+2025-05-13 11:55:25,570 - Computing glszm
+2025-05-13 11:55:25,570 - Computing ngtdm
+2025-05-13 11:55:26,326 - Calculating features with label: 2
+2025-05-13 11:55:26,326 - Loading image and mask
+2025-05-13 11:55:27,869 - Computing shape
+2025-05-13 11:55:27,878 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:27,878 - Calculating features for original image
+2025-05-13 11:55:27,887 - Computing firstorder
+2025-05-13 11:55:27,890 - Computing glcm
+2025-05-13 11:55:27,892 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:27,892 - Computing gldm
+2025-05-13 11:55:27,893 - Computing glrlm
+2025-05-13 11:55:27,895 - Computing glszm
+2025-05-13 11:55:27,896 - Computing ngtdm
+2025-05-13 11:55:27,898 - Calculating features with label: 3
+2025-05-13 11:55:27,898 - Loading image and mask
+2025-05-13 11:55:29,621 - Computing shape
+2025-05-13 11:55:29,666 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:29,666 - Calculating features for original image
+2025-05-13 11:55:29,677 - Computing firstorder
+2025-05-13 11:55:29,684 - Computing glcm
+2025-05-13 11:55:29,696 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:29,696 - Computing gldm
+2025-05-13 11:55:29,708 - Computing glrlm
+2025-05-13 11:55:29,783 - Computing glszm
+2025-05-13 11:55:29,795 - Computing ngtdm
+2025-05-13 11:55:29,807 - Calculating features with label: 2
+2025-05-13 11:55:29,807 - Loading image and mask
+2025-05-13 11:55:31,248 - Computing shape
+2025-05-13 11:55:31,256 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:31,257 - Calculating features for original image
+2025-05-13 11:55:31,266 - Computing firstorder
+2025-05-13 11:55:31,268 - Computing glcm
+2025-05-13 11:55:31,270 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:31,270 - Computing gldm
+2025-05-13 11:55:31,271 - Computing glrlm
+2025-05-13 11:55:31,273 - Computing glszm
+2025-05-13 11:55:31,274 - Computing ngtdm
+2025-05-13 11:55:31,276 - Calculating features with label: 3
+2025-05-13 11:55:31,276 - Loading image and mask
+2025-05-13 11:55:32,713 - Computing shape
+2025-05-13 11:55:32,768 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:32,768 - Calculating features for original image
+2025-05-13 11:55:32,777 - Computing firstorder
+2025-05-13 11:55:32,784 - Computing glcm
+2025-05-13 11:55:32,797 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:32,797 - Computing gldm
+2025-05-13 11:55:32,810 - Computing glrlm
+2025-05-13 11:55:32,889 - Computing glszm
+2025-05-13 11:55:32,901 - Computing ngtdm
+2025-05-13 11:55:32,913 - Calculating features with label: 2
+2025-05-13 11:55:32,913 - Loading image and mask
+2025-05-13 11:55:34,359 - Computing shape
+2025-05-13 11:55:34,368 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:34,368 - Calculating features for original image
+2025-05-13 11:55:34,377 - Computing firstorder
+2025-05-13 11:55:34,380 - Computing glcm
+2025-05-13 11:55:34,382 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:34,382 - Computing gldm
+2025-05-13 11:55:34,383 - Computing glrlm
+2025-05-13 11:55:34,386 - Computing glszm
+2025-05-13 11:55:34,387 - Computing ngtdm
+2025-05-13 11:55:34,388 - Calculating features with label: 3
+2025-05-13 11:55:34,388 - Loading image and mask
+2025-05-13 11:55:35,879 - Computing shape
+2025-05-13 11:55:35,921 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:35,921 - Calculating features for original image
+2025-05-13 11:55:35,931 - Computing firstorder
+2025-05-13 11:55:35,938 - Computing glcm
+2025-05-13 11:55:35,950 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:35,951 - Computing gldm
+2025-05-13 11:55:35,962 - Computing glrlm
+2025-05-13 11:55:36,038 - Computing glszm
+2025-05-13 11:55:36,050 - Computing ngtdm
+2025-05-13 11:55:36,061 - Calculating features with label: 2
+2025-05-13 11:55:36,061 - Loading image and mask
+2025-05-13 11:55:37,500 - Computing shape
+2025-05-13 11:55:37,509 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:37,509 - Calculating features for original image
+2025-05-13 11:55:37,519 - Computing firstorder
+2025-05-13 11:55:37,522 - Computing glcm
+2025-05-13 11:55:37,524 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:37,524 - Computing gldm
+2025-05-13 11:55:37,526 - Computing glrlm
+2025-05-13 11:55:37,528 - Computing glszm
+2025-05-13 11:55:37,530 - Computing ngtdm
+2025-05-13 11:55:37,532 - Calculating features with label: 3
+2025-05-13 11:55:37,532 - Loading image and mask
+2025-05-13 11:55:39,117 - Computing shape
+2025-05-13 11:55:39,178 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:39,178 - Calculating features for original image
+2025-05-13 11:55:39,188 - Computing firstorder
+2025-05-13 11:55:39,195 - Computing glcm
+2025-05-13 11:55:39,207 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:39,207 - Computing gldm
+2025-05-13 11:55:39,218 - Computing glrlm
+2025-05-13 11:55:39,294 - Computing glszm
+2025-05-13 11:55:39,306 - Computing ngtdm
+2025-05-13 11:55:40,047 - Calculating features with label: 3
+2025-05-13 11:55:40,047 - Loading image and mask
+2025-05-13 11:55:41,536 - Computing shape
+2025-05-13 11:55:41,545 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:41,545 - Calculating features for original image
+2025-05-13 11:55:41,554 - Computing firstorder
+2025-05-13 11:55:41,557 - Computing glcm
+2025-05-13 11:55:41,559 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:41,559 - Computing gldm
+2025-05-13 11:55:41,560 - Computing glrlm
+2025-05-13 11:55:41,562 - Computing glszm
+2025-05-13 11:55:41,563 - Computing ngtdm
+2025-05-13 11:55:41,564 - Calculating features with label: 3
+2025-05-13 11:55:41,564 - Loading image and mask
+2025-05-13 11:55:43,029 - Computing shape
+2025-05-13 11:55:43,038 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:43,038 - Calculating features for original image
+2025-05-13 11:55:43,047 - Computing firstorder
+2025-05-13 11:55:43,050 - Computing glcm
+2025-05-13 11:55:43,052 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:43,052 - Computing gldm
+2025-05-13 11:55:43,053 - Computing glrlm
+2025-05-13 11:55:43,055 - Computing glszm
+2025-05-13 11:55:43,056 - Computing ngtdm
+2025-05-13 11:55:43,058 - Calculating features with label: 3
+2025-05-13 11:55:43,058 - Loading image and mask
+2025-05-13 11:55:44,510 - Computing shape
+2025-05-13 11:55:44,519 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:44,519 - Calculating features for original image
+2025-05-13 11:55:44,527 - Computing firstorder
+2025-05-13 11:55:44,530 - Computing glcm
+2025-05-13 11:55:44,532 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:44,532 - Computing gldm
+2025-05-13 11:55:44,533 - Computing glrlm
+2025-05-13 11:55:44,535 - Computing glszm
+2025-05-13 11:55:44,536 - Computing ngtdm
+2025-05-13 11:55:44,538 - Calculating features with label: 3
+2025-05-13 11:55:44,538 - Loading image and mask
+2025-05-13 11:55:45,983 - Computing shape
+2025-05-13 11:55:45,991 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:45,991 - Calculating features for original image
+2025-05-13 11:55:46,001 - Computing firstorder
+2025-05-13 11:55:46,003 - Computing glcm
+2025-05-13 11:55:46,005 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:46,005 - Computing gldm
+2025-05-13 11:55:46,006 - Computing glrlm
+2025-05-13 11:55:46,008 - Computing glszm
+2025-05-13 11:55:46,009 - Computing ngtdm
+2025-05-13 11:55:46,841 - Calculating features with label: 1
+2025-05-13 11:55:46,841 - Loading image and mask
+2025-05-13 11:55:48,396 - Error extracting BraTS-MEN-00016-000 | T1C | Region 1: mask only contains 1 segmented voxel! Cannot extract features for a single voxel.
+2025-05-13 11:55:48,397 - Calculating features with label: 3
+2025-05-13 11:55:48,397 - Loading image and mask
+2025-05-13 11:55:49,836 - Computing shape
+2025-05-13 11:55:49,862 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:49,862 - Calculating features for original image
+2025-05-13 11:55:49,873 - Computing firstorder
+2025-05-13 11:55:49,880 - Computing glcm
+2025-05-13 11:55:49,884 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:49,884 - Computing gldm
+2025-05-13 11:55:49,888 - Computing glrlm
+2025-05-13 11:55:49,893 - Computing glszm
+2025-05-13 11:55:49,896 - Computing ngtdm
+2025-05-13 11:55:49,901 - Calculating features with label: 1
+2025-05-13 11:55:49,901 - Loading image and mask
+2025-05-13 11:55:51,322 - Error extracting BraTS-MEN-00016-000 | T1N | Region 1: mask only contains 1 segmented voxel! Cannot extract features for a single voxel.
+2025-05-13 11:55:51,322 - Calculating features with label: 3
+2025-05-13 11:55:51,323 - Loading image and mask
+2025-05-13 11:55:52,755 - Computing shape
+2025-05-13 11:55:52,780 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:52,781 - Calculating features for original image
+2025-05-13 11:55:52,790 - Computing firstorder
+2025-05-13 11:55:52,798 - Computing glcm
+2025-05-13 11:55:52,803 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:52,803 - Computing gldm
+2025-05-13 11:55:52,806 - Computing glrlm
+2025-05-13 11:55:52,811 - Computing glszm
+2025-05-13 11:55:52,814 - Computing ngtdm
+2025-05-13 11:55:52,818 - Calculating features with label: 1
+2025-05-13 11:55:52,818 - Loading image and mask
+2025-05-13 11:55:54,362 - Error extracting BraTS-MEN-00016-000 | T2F | Region 1: mask only contains 1 segmented voxel! Cannot extract features for a single voxel.
+2025-05-13 11:55:54,363 - Calculating features with label: 3
+2025-05-13 11:55:54,363 - Loading image and mask
+2025-05-13 11:55:55,936 - Computing shape
+2025-05-13 11:55:55,971 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:55,972 - Calculating features for original image
+2025-05-13 11:55:55,982 - Computing firstorder
+2025-05-13 11:55:55,989 - Computing glcm
+2025-05-13 11:55:55,993 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:55,993 - Computing gldm
+2025-05-13 11:55:55,997 - Computing glrlm
+2025-05-13 11:55:56,002 - Computing glszm
+2025-05-13 11:55:56,005 - Computing ngtdm
+2025-05-13 11:55:56,008 - Calculating features with label: 1
+2025-05-13 11:55:56,008 - Loading image and mask
+2025-05-13 11:55:57,431 - Error extracting BraTS-MEN-00016-000 | T2W | Region 1: mask only contains 1 segmented voxel! Cannot extract features for a single voxel.
+2025-05-13 11:55:57,432 - Calculating features with label: 3
+2025-05-13 11:55:57,432 - Loading image and mask
+2025-05-13 11:55:59,073 - Computing shape
+2025-05-13 11:55:59,103 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:55:59,103 - Calculating features for original image
+2025-05-13 11:55:59,111 - Computing firstorder
+2025-05-13 11:55:59,118 - Computing glcm
+2025-05-13 11:55:59,122 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:55:59,122 - Computing gldm
+2025-05-13 11:55:59,125 - Computing glrlm
+2025-05-13 11:55:59,131 - Computing glszm
+2025-05-13 11:55:59,137 - Computing ngtdm
+2025-05-13 11:55:59,868 - Calculating features with label: 1
+2025-05-13 11:55:59,868 - Loading image and mask
+2025-05-13 11:56:01,285 - Computing shape
+2025-05-13 11:56:01,408 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:01,408 - Calculating features for original image
+2025-05-13 11:56:01,418 - Computing firstorder
+2025-05-13 11:56:01,425 - Computing glcm
+2025-05-13 11:56:01,430 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:01,430 - Computing gldm
+2025-05-13 11:56:01,434 - Computing glrlm
+2025-05-13 11:56:01,446 - Computing glszm
+2025-05-13 11:56:01,450 - Computing ngtdm
+2025-05-13 11:56:01,455 - Calculating features with label: 2
+2025-05-13 11:56:01,455 - Loading image and mask
+2025-05-13 11:56:02,861 - Computing shape
+2025-05-13 11:56:02,952 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:02,953 - Calculating features for original image
+2025-05-13 11:56:02,961 - Computing firstorder
+2025-05-13 11:56:02,966 - Computing glcm
+2025-05-13 11:56:02,971 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:02,971 - Computing gldm
+2025-05-13 11:56:02,976 - Computing glrlm
+2025-05-13 11:56:02,995 - Computing glszm
+2025-05-13 11:56:02,999 - Computing ngtdm
+2025-05-13 11:56:03,004 - Calculating features with label: 3
+2025-05-13 11:56:03,004 - Loading image and mask
+2025-05-13 11:56:04,429 - Computing shape
+2025-05-13 11:56:04,767 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:04,767 - Calculating features for original image
+2025-05-13 11:56:04,777 - Computing firstorder
+2025-05-13 11:56:04,822 - Computing glcm
+2025-05-13 11:56:04,850 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:04,851 - Computing gldm
+2025-05-13 11:56:04,881 - Computing glrlm
+2025-05-13 11:56:04,924 - Computing glszm
+2025-05-13 11:56:04,950 - Computing ngtdm
+2025-05-13 11:56:04,977 - Calculating features with label: 1
+2025-05-13 11:56:04,977 - Loading image and mask
+2025-05-13 11:56:06,444 - Computing shape
+2025-05-13 11:56:06,565 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:06,565 - Calculating features for original image
+2025-05-13 11:56:06,575 - Computing firstorder
+2025-05-13 11:56:06,583 - Computing glcm
+2025-05-13 11:56:06,588 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:06,588 - Computing gldm
+2025-05-13 11:56:06,592 - Computing glrlm
+2025-05-13 11:56:06,605 - Computing glszm
+2025-05-13 11:56:06,609 - Computing ngtdm
+2025-05-13 11:56:06,613 - Calculating features with label: 2
+2025-05-13 11:56:06,613 - Loading image and mask
+2025-05-13 11:56:08,043 - Computing shape
+2025-05-13 11:56:08,136 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:08,137 - Calculating features for original image
+2025-05-13 11:56:08,154 - Computing firstorder
+2025-05-13 11:56:08,160 - Computing glcm
+2025-05-13 11:56:08,164 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:08,165 - Computing gldm
+2025-05-13 11:56:08,169 - Computing glrlm
+2025-05-13 11:56:08,189 - Computing glszm
+2025-05-13 11:56:08,193 - Computing ngtdm
+2025-05-13 11:56:08,197 - Calculating features with label: 3
+2025-05-13 11:56:08,197 - Loading image and mask
+2025-05-13 11:56:09,620 - Computing shape
+2025-05-13 11:56:09,983 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:09,983 - Calculating features for original image
+2025-05-13 11:56:09,994 - Computing firstorder
+2025-05-13 11:56:10,033 - Computing glcm
+2025-05-13 11:56:10,056 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:10,057 - Computing gldm
+2025-05-13 11:56:10,078 - Computing glrlm
+2025-05-13 11:56:10,113 - Computing glszm
+2025-05-13 11:56:10,135 - Computing ngtdm
+2025-05-13 11:56:10,156 - Calculating features with label: 1
+2025-05-13 11:56:10,156 - Loading image and mask
+2025-05-13 11:56:11,657 - Computing shape
+2025-05-13 11:56:11,773 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:11,773 - Calculating features for original image
+2025-05-13 11:56:11,783 - Computing firstorder
+2025-05-13 11:56:11,790 - Computing glcm
+2025-05-13 11:56:11,795 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:11,795 - Computing gldm
+2025-05-13 11:56:11,799 - Computing glrlm
+2025-05-13 11:56:11,812 - Computing glszm
+2025-05-13 11:56:11,816 - Computing ngtdm
+2025-05-13 11:56:11,820 - Calculating features with label: 2
+2025-05-13 11:56:11,820 - Loading image and mask
+2025-05-13 11:56:13,242 - Computing shape
+2025-05-13 11:56:13,342 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:13,342 - Calculating features for original image
+2025-05-13 11:56:13,352 - Computing firstorder
+2025-05-13 11:56:13,358 - Computing glcm
+2025-05-13 11:56:13,362 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:13,362 - Computing gldm
+2025-05-13 11:56:13,366 - Computing glrlm
+2025-05-13 11:56:13,386 - Computing glszm
+2025-05-13 11:56:13,390 - Computing ngtdm
+2025-05-13 11:56:13,394 - Calculating features with label: 3
+2025-05-13 11:56:13,395 - Loading image and mask
+2025-05-13 11:56:14,789 - Computing shape
+2025-05-13 11:56:15,160 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:15,160 - Calculating features for original image
+2025-05-13 11:56:15,169 - Computing firstorder
+2025-05-13 11:56:15,204 - Computing glcm
+2025-05-13 11:56:15,227 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:15,227 - Computing gldm
+2025-05-13 11:56:15,248 - Computing glrlm
+2025-05-13 11:56:15,283 - Computing glszm
+2025-05-13 11:56:15,304 - Computing ngtdm
+2025-05-13 11:56:15,324 - Calculating features with label: 1
+2025-05-13 11:56:15,324 - Loading image and mask
+2025-05-13 11:56:16,737 - Computing shape
+2025-05-13 11:56:16,873 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:16,873 - Calculating features for original image
+2025-05-13 11:56:16,884 - Computing firstorder
+2025-05-13 11:56:16,892 - Computing glcm
+2025-05-13 11:56:16,896 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:16,897 - Computing gldm
+2025-05-13 11:56:16,901 - Computing glrlm
+2025-05-13 11:56:16,913 - Computing glszm
+2025-05-13 11:56:16,918 - Computing ngtdm
+2025-05-13 11:56:16,922 - Calculating features with label: 2
+2025-05-13 11:56:16,922 - Loading image and mask
+2025-05-13 11:56:18,421 - Computing shape
+2025-05-13 11:56:18,517 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:18,517 - Calculating features for original image
+2025-05-13 11:56:18,526 - Computing firstorder
+2025-05-13 11:56:18,531 - Computing glcm
+2025-05-13 11:56:18,536 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:18,536 - Computing gldm
+2025-05-13 11:56:18,540 - Computing glrlm
+2025-05-13 11:56:18,559 - Computing glszm
+2025-05-13 11:56:18,564 - Computing ngtdm
+2025-05-13 11:56:18,568 - Calculating features with label: 3
+2025-05-13 11:56:18,568 - Loading image and mask
+2025-05-13 11:56:19,990 - Computing shape
+2025-05-13 11:56:20,345 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:20,345 - Calculating features for original image
+2025-05-13 11:56:20,354 - Computing firstorder
+2025-05-13 11:56:20,394 - Computing glcm
+2025-05-13 11:56:20,418 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:20,418 - Computing gldm
+2025-05-13 11:56:20,440 - Computing glrlm
+2025-05-13 11:56:20,476 - Computing glszm
+2025-05-13 11:56:20,499 - Computing ngtdm
+2025-05-13 11:56:21,245 - Calculating features with label: 1
+2025-05-13 11:56:21,245 - Loading image and mask
+2025-05-13 11:56:22,682 - Computing shape
+2025-05-13 11:56:22,687 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:22,688 - Calculating features for original image
+2025-05-13 11:56:22,696 - Computing firstorder
+2025-05-13 11:56:22,698 - Computing glcm
+2025-05-13 11:56:22,700 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:22,700 - Computing gldm
+2025-05-13 11:56:22,700 - Computing glrlm
+2025-05-13 11:56:22,701 - Computing glszm
+2025-05-13 11:56:22,702 - Computing ngtdm
+2025-05-13 11:56:22,703 - Calculating features with label: 2
+2025-05-13 11:56:22,703 - Loading image and mask
+2025-05-13 11:56:24,183 - Computing shape
+2025-05-13 11:56:24,191 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:24,191 - Calculating features for original image
+2025-05-13 11:56:24,200 - Computing firstorder
+2025-05-13 11:56:24,202 - Computing glcm
+2025-05-13 11:56:24,204 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:24,204 - Computing gldm
+2025-05-13 11:56:24,205 - Computing glrlm
+2025-05-13 11:56:24,207 - Computing glszm
+2025-05-13 11:56:24,208 - Computing ngtdm
+2025-05-13 11:56:24,209 - Calculating features with label: 3
+2025-05-13 11:56:24,209 - Loading image and mask
+2025-05-13 11:56:25,654 - Computing shape
+2025-05-13 11:56:25,701 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:25,701 - Calculating features for original image
+2025-05-13 11:56:25,710 - Computing firstorder
+2025-05-13 11:56:25,719 - Computing glcm
+2025-05-13 11:56:25,725 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:25,726 - Computing gldm
+2025-05-13 11:56:25,730 - Computing glrlm
+2025-05-13 11:56:25,737 - Computing glszm
+2025-05-13 11:56:25,742 - Computing ngtdm
+2025-05-13 11:56:25,746 - Calculating features with label: 1
+2025-05-13 11:56:25,747 - Loading image and mask
+2025-05-13 11:56:27,175 - Computing shape
+2025-05-13 11:56:27,181 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:27,181 - Calculating features for original image
+2025-05-13 11:56:27,190 - Computing firstorder
+2025-05-13 11:56:27,192 - Computing glcm
+2025-05-13 11:56:27,193 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:27,193 - Computing gldm
+2025-05-13 11:56:27,194 - Computing glrlm
+2025-05-13 11:56:27,195 - Computing glszm
+2025-05-13 11:56:27,196 - Computing ngtdm
+2025-05-13 11:56:27,196 - Calculating features with label: 2
+2025-05-13 11:56:27,197 - Loading image and mask
+2025-05-13 11:56:28,686 - Computing shape
+2025-05-13 11:56:28,692 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:28,693 - Calculating features for original image
+2025-05-13 11:56:28,709 - Computing firstorder
+2025-05-13 11:56:28,711 - Computing glcm
+2025-05-13 11:56:28,712 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:28,713 - Computing gldm
+2025-05-13 11:56:28,713 - Computing glrlm
+2025-05-13 11:56:28,716 - Computing glszm
+2025-05-13 11:56:28,717 - Computing ngtdm
+2025-05-13 11:56:28,718 - Calculating features with label: 3
+2025-05-13 11:56:28,718 - Loading image and mask
+2025-05-13 11:56:30,162 - Computing shape
+2025-05-13 11:56:30,207 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:30,207 - Calculating features for original image
+2025-05-13 11:56:30,217 - Computing firstorder
+2025-05-13 11:56:30,228 - Computing glcm
+2025-05-13 11:56:30,234 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:30,235 - Computing gldm
+2025-05-13 11:56:30,239 - Computing glrlm
+2025-05-13 11:56:30,246 - Computing glszm
+2025-05-13 11:56:30,251 - Computing ngtdm
+2025-05-13 11:56:30,255 - Calculating features with label: 1
+2025-05-13 11:56:30,255 - Loading image and mask
+2025-05-13 11:56:31,689 - Computing shape
+2025-05-13 11:56:31,695 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:31,695 - Calculating features for original image
+2025-05-13 11:56:31,704 - Computing firstorder
+2025-05-13 11:56:31,706 - Computing glcm
+2025-05-13 11:56:31,707 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:31,707 - Computing gldm
+2025-05-13 11:56:31,708 - Computing glrlm
+2025-05-13 11:56:31,709 - Computing glszm
+2025-05-13 11:56:31,709 - Computing ngtdm
+2025-05-13 11:56:31,710 - Calculating features with label: 2
+2025-05-13 11:56:31,710 - Loading image and mask
+2025-05-13 11:56:33,186 - Computing shape
+2025-05-13 11:56:33,193 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:33,193 - Calculating features for original image
+2025-05-13 11:56:33,205 - Computing firstorder
+2025-05-13 11:56:33,207 - Computing glcm
+2025-05-13 11:56:33,209 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:33,209 - Computing gldm
+2025-05-13 11:56:33,210 - Computing glrlm
+2025-05-13 11:56:33,213 - Computing glszm
+2025-05-13 11:56:33,214 - Computing ngtdm
+2025-05-13 11:56:33,215 - Calculating features with label: 3
+2025-05-13 11:56:33,215 - Loading image and mask
+2025-05-13 11:56:34,625 - Computing shape
+2025-05-13 11:56:34,669 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:34,669 - Calculating features for original image
+2025-05-13 11:56:34,680 - Computing firstorder
+2025-05-13 11:56:34,689 - Computing glcm
+2025-05-13 11:56:34,694 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:34,694 - Computing gldm
+2025-05-13 11:56:34,699 - Computing glrlm
+2025-05-13 11:56:34,706 - Computing glszm
+2025-05-13 11:56:34,710 - Computing ngtdm
+2025-05-13 11:56:34,715 - Calculating features with label: 1
+2025-05-13 11:56:34,715 - Loading image and mask
+2025-05-13 11:56:36,158 - Computing shape
+2025-05-13 11:56:36,163 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:36,163 - Calculating features for original image
+2025-05-13 11:56:36,172 - Computing firstorder
+2025-05-13 11:56:36,174 - Computing glcm
+2025-05-13 11:56:36,176 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:36,176 - Computing gldm
+2025-05-13 11:56:36,176 - Computing glrlm
+2025-05-13 11:56:36,177 - Computing glszm
+2025-05-13 11:56:36,178 - Computing ngtdm
+2025-05-13 11:56:36,178 - Calculating features with label: 2
+2025-05-13 11:56:36,178 - Loading image and mask
+2025-05-13 11:56:37,602 - Computing shape
+2025-05-13 11:56:37,609 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:37,609 - Calculating features for original image
+2025-05-13 11:56:37,618 - Computing firstorder
+2025-05-13 11:56:37,620 - Computing glcm
+2025-05-13 11:56:37,622 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:37,622 - Computing gldm
+2025-05-13 11:56:37,623 - Computing glrlm
+2025-05-13 11:56:37,626 - Computing glszm
+2025-05-13 11:56:37,626 - Computing ngtdm
+2025-05-13 11:56:37,628 - Calculating features with label: 3
+2025-05-13 11:56:37,628 - Loading image and mask
+2025-05-13 11:56:39,050 - Computing shape
+2025-05-13 11:56:39,093 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:39,094 - Calculating features for original image
+2025-05-13 11:56:39,103 - Computing firstorder
+2025-05-13 11:56:39,112 - Computing glcm
+2025-05-13 11:56:39,117 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:39,117 - Computing gldm
+2025-05-13 11:56:39,122 - Computing glrlm
+2025-05-13 11:56:39,129 - Computing glszm
+2025-05-13 11:56:39,133 - Computing ngtdm
+2025-05-13 11:56:39,862 - Calculating features with label: 3
+2025-05-13 11:56:39,862 - Loading image and mask
+2025-05-13 11:56:41,380 - Computing shape
+2025-05-13 11:56:41,398 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:41,398 - Calculating features for original image
+2025-05-13 11:56:41,407 - Computing firstorder
+2025-05-13 11:56:41,412 - Computing glcm
+2025-05-13 11:56:41,416 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:41,416 - Computing gldm
+2025-05-13 11:56:41,419 - Computing glrlm
+2025-05-13 11:56:41,422 - Computing glszm
+2025-05-13 11:56:41,425 - Computing ngtdm
+2025-05-13 11:56:41,427 - Calculating features with label: 3
+2025-05-13 11:56:41,427 - Loading image and mask
+2025-05-13 11:56:42,875 - Computing shape
+2025-05-13 11:56:42,892 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:42,892 - Calculating features for original image
+2025-05-13 11:56:42,902 - Computing firstorder
+2025-05-13 11:56:42,907 - Computing glcm
+2025-05-13 11:56:42,911 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:42,911 - Computing gldm
+2025-05-13 11:56:42,913 - Computing glrlm
+2025-05-13 11:56:42,917 - Computing glszm
+2025-05-13 11:56:42,921 - Computing ngtdm
+2025-05-13 11:56:42,924 - Calculating features with label: 3
+2025-05-13 11:56:42,924 - Loading image and mask
+2025-05-13 11:56:44,360 - Computing shape
+2025-05-13 11:56:44,384 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:44,384 - Calculating features for original image
+2025-05-13 11:56:44,399 - Computing firstorder
+2025-05-13 11:56:44,404 - Computing glcm
+2025-05-13 11:56:44,407 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:44,408 - Computing gldm
+2025-05-13 11:56:44,410 - Computing glrlm
+2025-05-13 11:56:44,413 - Computing glszm
+2025-05-13 11:56:44,417 - Computing ngtdm
+2025-05-13 11:56:44,420 - Calculating features with label: 3
+2025-05-13 11:56:44,420 - Loading image and mask
+2025-05-13 11:56:45,845 - Computing shape
+2025-05-13 11:56:45,862 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:45,862 - Calculating features for original image
+2025-05-13 11:56:45,872 - Computing firstorder
+2025-05-13 11:56:45,878 - Computing glcm
+2025-05-13 11:56:45,881 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:45,882 - Computing gldm
+2025-05-13 11:56:45,884 - Computing glrlm
+2025-05-13 11:56:45,888 - Computing glszm
+2025-05-13 11:56:45,891 - Computing ngtdm
+2025-05-13 11:56:46,628 - Calculating features with label: 2
+2025-05-13 11:56:46,628 - Loading image and mask
+2025-05-13 11:56:48,068 - Computing shape
+2025-05-13 11:56:48,179 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:48,179 - Calculating features for original image
+2025-05-13 11:56:48,188 - Computing firstorder
+2025-05-13 11:56:48,199 - Computing glcm
+2025-05-13 11:56:48,205 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:48,206 - Computing gldm
+2025-05-13 11:56:48,211 - Computing glrlm
+2025-05-13 11:56:48,223 - Computing glszm
+2025-05-13 11:56:48,229 - Computing ngtdm
+2025-05-13 11:56:48,235 - Calculating features with label: 3
+2025-05-13 11:56:48,235 - Loading image and mask
+2025-05-13 11:56:49,699 - Computing shape
+2025-05-13 11:56:49,716 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:49,716 - Calculating features for original image
+2025-05-13 11:56:49,726 - Computing firstorder
+2025-05-13 11:56:49,730 - Computing glcm
+2025-05-13 11:56:49,733 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:49,733 - Computing gldm
+2025-05-13 11:56:49,735 - Computing glrlm
+2025-05-13 11:56:49,739 - Computing glszm
+2025-05-13 11:56:49,741 - Computing ngtdm
+2025-05-13 11:56:49,744 - Calculating features with label: 2
+2025-05-13 11:56:49,744 - Loading image and mask
+2025-05-13 11:56:51,232 - Computing shape
+2025-05-13 11:56:51,350 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:51,350 - Calculating features for original image
+2025-05-13 11:56:51,359 - Computing firstorder
+2025-05-13 11:56:51,369 - Computing glcm
+2025-05-13 11:56:51,375 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:51,376 - Computing gldm
+2025-05-13 11:56:51,381 - Computing glrlm
+2025-05-13 11:56:51,393 - Computing glszm
+2025-05-13 11:56:51,399 - Computing ngtdm
+2025-05-13 11:56:51,405 - Calculating features with label: 3
+2025-05-13 11:56:51,405 - Loading image and mask
+2025-05-13 11:56:52,828 - Computing shape
+2025-05-13 11:56:52,845 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:52,845 - Calculating features for original image
+2025-05-13 11:56:52,854 - Computing firstorder
+2025-05-13 11:56:52,858 - Computing glcm
+2025-05-13 11:56:52,861 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:52,861 - Computing gldm
+2025-05-13 11:56:52,863 - Computing glrlm
+2025-05-13 11:56:52,866 - Computing glszm
+2025-05-13 11:56:52,868 - Computing ngtdm
+2025-05-13 11:56:52,871 - Calculating features with label: 2
+2025-05-13 11:56:52,871 - Loading image and mask
+2025-05-13 11:56:54,329 - Computing shape
+2025-05-13 11:56:54,439 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:54,439 - Calculating features for original image
+2025-05-13 11:56:54,449 - Computing firstorder
+2025-05-13 11:56:54,459 - Computing glcm
+2025-05-13 11:56:54,465 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:54,466 - Computing gldm
+2025-05-13 11:56:54,471 - Computing glrlm
+2025-05-13 11:56:54,483 - Computing glszm
+2025-05-13 11:56:54,489 - Computing ngtdm
+2025-05-13 11:56:54,494 - Calculating features with label: 3
+2025-05-13 11:56:54,494 - Loading image and mask
+2025-05-13 11:56:55,914 - Computing shape
+2025-05-13 11:56:55,931 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:55,931 - Calculating features for original image
+2025-05-13 11:56:55,940 - Computing firstorder
+2025-05-13 11:56:55,945 - Computing glcm
+2025-05-13 11:56:55,947 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:55,948 - Computing gldm
+2025-05-13 11:56:55,950 - Computing glrlm
+2025-05-13 11:56:55,953 - Computing glszm
+2025-05-13 11:56:55,955 - Computing ngtdm
+2025-05-13 11:56:55,957 - Calculating features with label: 2
+2025-05-13 11:56:55,958 - Loading image and mask
+2025-05-13 11:56:57,392 - Computing shape
+2025-05-13 11:56:57,514 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:57,514 - Calculating features for original image
+2025-05-13 11:56:57,525 - Computing firstorder
+2025-05-13 11:56:57,536 - Computing glcm
+2025-05-13 11:56:57,542 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:57,543 - Computing gldm
+2025-05-13 11:56:57,548 - Computing glrlm
+2025-05-13 11:56:57,560 - Computing glszm
+2025-05-13 11:56:57,566 - Computing ngtdm
+2025-05-13 11:56:57,571 - Calculating features with label: 3
+2025-05-13 11:56:57,571 - Loading image and mask
+2025-05-13 11:56:59,016 - Computing shape
+2025-05-13 11:56:59,031 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:56:59,032 - Calculating features for original image
+2025-05-13 11:56:59,040 - Computing firstorder
+2025-05-13 11:56:59,045 - Computing glcm
+2025-05-13 11:56:59,048 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:56:59,048 - Computing gldm
+2025-05-13 11:56:59,050 - Computing glrlm
+2025-05-13 11:56:59,053 - Computing glszm
+2025-05-13 11:56:59,055 - Computing ngtdm
+2025-05-13 11:56:59,863 - Calculating features with label: 1
+2025-05-13 11:56:59,864 - Loading image and mask
+2025-05-13 11:57:01,509 - Computing shape
+2025-05-13 11:57:01,517 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:01,517 - Calculating features for original image
+2025-05-13 11:57:01,526 - Computing firstorder
+2025-05-13 11:57:01,528 - Computing glcm
+2025-05-13 11:57:01,529 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:01,530 - Computing gldm
+2025-05-13 11:57:01,530 - Computing glrlm
+2025-05-13 11:57:01,534 - Computing glszm
+2025-05-13 11:57:01,535 - Computing ngtdm
+2025-05-13 11:57:01,537 - Calculating features with label: 2
+2025-05-13 11:57:01,537 - Loading image and mask
+2025-05-13 11:57:02,963 - Computing shape
+2025-05-13 11:57:04,071 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:04,071 - Calculating features for original image
+2025-05-13 11:57:04,080 - Computing firstorder
+2025-05-13 11:57:04,139 - Computing glcm
+2025-05-13 11:57:04,173 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:04,173 - Computing gldm
+2025-05-13 11:57:04,205 - Computing glrlm
+2025-05-13 11:57:04,266 - Computing glszm
+2025-05-13 11:57:04,298 - Computing ngtdm
+2025-05-13 11:57:04,329 - Calculating features with label: 3
+2025-05-13 11:57:04,329 - Loading image and mask
+2025-05-13 11:57:05,899 - Computing shape
+2025-05-13 11:57:06,034 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:06,034 - Calculating features for original image
+2025-05-13 11:57:06,044 - Computing firstorder
+2025-05-13 11:57:06,068 - Computing glcm
+2025-05-13 11:57:06,081 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:06,082 - Computing gldm
+2025-05-13 11:57:06,094 - Computing glrlm
+2025-05-13 11:57:06,125 - Computing glszm
+2025-05-13 11:57:06,138 - Computing ngtdm
+2025-05-13 11:57:06,150 - Calculating features with label: 1
+2025-05-13 11:57:06,150 - Loading image and mask
+2025-05-13 11:57:07,613 - Computing shape
+2025-05-13 11:57:07,620 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:07,620 - Calculating features for original image
+2025-05-13 11:57:07,628 - Computing firstorder
+2025-05-13 11:57:07,630 - Computing glcm
+2025-05-13 11:57:07,632 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:07,632 - Computing gldm
+2025-05-13 11:57:07,633 - Computing glrlm
+2025-05-13 11:57:07,637 - Computing glszm
+2025-05-13 11:57:07,640 - Computing ngtdm
+2025-05-13 11:57:07,641 - Calculating features with label: 2
+2025-05-13 11:57:07,641 - Loading image and mask
+2025-05-13 11:57:09,087 - Computing shape
+2025-05-13 11:57:10,195 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:10,196 - Calculating features for original image
+2025-05-13 11:57:10,205 - Computing firstorder
+2025-05-13 11:57:10,264 - Computing glcm
+2025-05-13 11:57:10,297 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:10,298 - Computing gldm
+2025-05-13 11:57:10,330 - Computing glrlm
+2025-05-13 11:57:10,392 - Computing glszm
+2025-05-13 11:57:10,424 - Computing ngtdm
+2025-05-13 11:57:10,454 - Calculating features with label: 3
+2025-05-13 11:57:10,454 - Loading image and mask
+2025-05-13 11:57:11,894 - Computing shape
+2025-05-13 11:57:12,029 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:12,030 - Calculating features for original image
+2025-05-13 11:57:12,039 - Computing firstorder
+2025-05-13 11:57:12,061 - Computing glcm
+2025-05-13 11:57:12,075 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:12,075 - Computing gldm
+2025-05-13 11:57:12,088 - Computing glrlm
+2025-05-13 11:57:12,119 - Computing glszm
+2025-05-13 11:57:12,132 - Computing ngtdm
+2025-05-13 11:57:12,145 - Calculating features with label: 1
+2025-05-13 11:57:12,145 - Loading image and mask
+2025-05-13 11:57:13,772 - Computing shape
+2025-05-13 11:57:13,779 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:13,779 - Calculating features for original image
+2025-05-13 11:57:13,788 - Computing firstorder
+2025-05-13 11:57:13,790 - Computing glcm
+2025-05-13 11:57:13,791 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:13,792 - Computing gldm
+2025-05-13 11:57:13,793 - Computing glrlm
+2025-05-13 11:57:13,796 - Computing glszm
+2025-05-13 11:57:13,797 - Computing ngtdm
+2025-05-13 11:57:13,798 - Calculating features with label: 2
+2025-05-13 11:57:13,798 - Loading image and mask
+2025-05-13 11:57:15,215 - Computing shape
+2025-05-13 11:57:16,346 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:16,347 - Calculating features for original image
+2025-05-13 11:57:16,357 - Computing firstorder
+2025-05-13 11:57:16,415 - Computing glcm
+2025-05-13 11:57:16,449 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:16,449 - Computing gldm
+2025-05-13 11:57:16,481 - Computing glrlm
+2025-05-13 11:57:16,542 - Computing glszm
+2025-05-13 11:57:16,574 - Computing ngtdm
+2025-05-13 11:57:16,604 - Calculating features with label: 3
+2025-05-13 11:57:16,604 - Loading image and mask
+2025-05-13 11:57:18,055 - Computing shape
+2025-05-13 11:57:18,187 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:18,188 - Calculating features for original image
+2025-05-13 11:57:18,196 - Computing firstorder
+2025-05-13 11:57:18,218 - Computing glcm
+2025-05-13 11:57:18,232 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:18,232 - Computing gldm
+2025-05-13 11:57:18,246 - Computing glrlm
+2025-05-13 11:57:18,276 - Computing glszm
+2025-05-13 11:57:18,289 - Computing ngtdm
+2025-05-13 11:57:18,302 - Calculating features with label: 1
+2025-05-13 11:57:18,302 - Loading image and mask
+2025-05-13 11:57:19,728 - Computing shape
+2025-05-13 11:57:19,737 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:19,737 - Calculating features for original image
+2025-05-13 11:57:19,746 - Computing firstorder
+2025-05-13 11:57:19,748 - Computing glcm
+2025-05-13 11:57:19,750 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:19,750 - Computing gldm
+2025-05-13 11:57:19,751 - Computing glrlm
+2025-05-13 11:57:19,755 - Computing glszm
+2025-05-13 11:57:19,756 - Computing ngtdm
+2025-05-13 11:57:19,757 - Calculating features with label: 2
+2025-05-13 11:57:19,757 - Loading image and mask
+2025-05-13 11:57:21,329 - Computing shape
+2025-05-13 11:57:22,502 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:22,502 - Calculating features for original image
+2025-05-13 11:57:22,513 - Computing firstorder
+2025-05-13 11:57:22,577 - Computing glcm
+2025-05-13 11:57:22,611 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:22,611 - Computing gldm
+2025-05-13 11:57:22,644 - Computing glrlm
+2025-05-13 11:57:22,705 - Computing glszm
+2025-05-13 11:57:22,737 - Computing ngtdm
+2025-05-13 11:57:22,767 - Calculating features with label: 3
+2025-05-13 11:57:22,767 - Loading image and mask
+2025-05-13 11:57:24,174 - Computing shape
+2025-05-13 11:57:24,315 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:24,315 - Calculating features for original image
+2025-05-13 11:57:24,323 - Computing firstorder
+2025-05-13 11:57:24,346 - Computing glcm
+2025-05-13 11:57:24,361 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:24,362 - Computing gldm
+2025-05-13 11:57:24,376 - Computing glrlm
+2025-05-13 11:57:24,407 - Computing glszm
+2025-05-13 11:57:24,421 - Computing ngtdm
+2025-05-13 11:57:25,149 - Calculating features with label: 1
+2025-05-13 11:57:25,149 - Loading image and mask
+2025-05-13 11:57:26,639 - Computing shape
+2025-05-13 11:57:26,769 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:26,769 - Calculating features for original image
+2025-05-13 11:57:26,782 - Computing firstorder
+2025-05-13 11:57:26,793 - Computing glcm
+2025-05-13 11:57:26,800 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:26,801 - Computing gldm
+2025-05-13 11:57:26,807 - Computing glrlm
+2025-05-13 11:57:26,819 - Computing glszm
+2025-05-13 11:57:26,825 - Computing ngtdm
+2025-05-13 11:57:26,832 - Calculating features with label: 2
+2025-05-13 11:57:26,832 - Loading image and mask
+2025-05-13 11:57:28,272 - Error extracting BraTS-MEN-00040-000 | T1C | Region 2: mask has too few dimensions (number of dimensions 1, minimum required 2)
+2025-05-13 11:57:28,272 - Calculating features with label: 3
+2025-05-13 11:57:28,272 - Loading image and mask
+2025-05-13 11:57:29,699 - Computing shape
+2025-05-13 11:57:29,780 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:29,780 - Calculating features for original image
+2025-05-13 11:57:29,790 - Computing firstorder
+2025-05-13 11:57:29,798 - Computing glcm
+2025-05-13 11:57:29,803 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:29,803 - Computing gldm
+2025-05-13 11:57:29,808 - Computing glrlm
+2025-05-13 11:57:29,818 - Computing glszm
+2025-05-13 11:57:29,822 - Computing ngtdm
+2025-05-13 11:57:29,826 - Calculating features with label: 1
+2025-05-13 11:57:29,826 - Loading image and mask
+2025-05-13 11:57:31,371 - Computing shape
+2025-05-13 11:57:31,484 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:31,484 - Calculating features for original image
+2025-05-13 11:57:31,494 - Computing firstorder
+2025-05-13 11:57:31,504 - Computing glcm
+2025-05-13 11:57:31,511 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:31,511 - Computing gldm
+2025-05-13 11:57:31,517 - Computing glrlm
+2025-05-13 11:57:31,529 - Computing glszm
+2025-05-13 11:57:31,535 - Computing ngtdm
+2025-05-13 11:57:31,541 - Calculating features with label: 2
+2025-05-13 11:57:31,541 - Loading image and mask
+2025-05-13 11:57:33,125 - Error extracting BraTS-MEN-00040-000 | T1N | Region 2: mask has too few dimensions (number of dimensions 1, minimum required 2)
+2025-05-13 11:57:33,125 - Calculating features with label: 3
+2025-05-13 11:57:33,126 - Loading image and mask
+2025-05-13 11:57:34,587 - Computing shape
+2025-05-13 11:57:34,669 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:34,669 - Calculating features for original image
+2025-05-13 11:57:34,678 - Computing firstorder
+2025-05-13 11:57:34,686 - Computing glcm
+2025-05-13 11:57:34,691 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:34,692 - Computing gldm
+2025-05-13 11:57:34,696 - Computing glrlm
+2025-05-13 11:57:34,706 - Computing glszm
+2025-05-13 11:57:34,711 - Computing ngtdm
+2025-05-13 11:57:34,715 - Calculating features with label: 1
+2025-05-13 11:57:34,715 - Loading image and mask
+2025-05-13 11:57:36,243 - Computing shape
+2025-05-13 11:57:36,371 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:36,371 - Calculating features for original image
+2025-05-13 11:57:36,381 - Computing firstorder
+2025-05-13 11:57:36,392 - Computing glcm
+2025-05-13 11:57:36,399 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:36,399 - Computing gldm
+2025-05-13 11:57:36,405 - Computing glrlm
+2025-05-13 11:57:36,417 - Computing glszm
+2025-05-13 11:57:36,424 - Computing ngtdm
+2025-05-13 11:57:36,430 - Calculating features with label: 2
+2025-05-13 11:57:36,430 - Loading image and mask
+2025-05-13 11:57:37,943 - Error extracting BraTS-MEN-00040-000 | T2F | Region 2: mask has too few dimensions (number of dimensions 1, minimum required 2)
+2025-05-13 11:57:37,943 - Calculating features with label: 3
+2025-05-13 11:57:37,943 - Loading image and mask
+2025-05-13 11:57:39,385 - Computing shape
+2025-05-13 11:57:39,482 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:39,483 - Calculating features for original image
+2025-05-13 11:57:39,493 - Computing firstorder
+2025-05-13 11:57:39,502 - Computing glcm
+2025-05-13 11:57:39,508 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:39,508 - Computing gldm
+2025-05-13 11:57:39,512 - Computing glrlm
+2025-05-13 11:57:39,522 - Computing glszm
+2025-05-13 11:57:39,527 - Computing ngtdm
+2025-05-13 11:57:39,531 - Calculating features with label: 1
+2025-05-13 11:57:39,531 - Loading image and mask
+2025-05-13 11:57:40,935 - Computing shape
+2025-05-13 11:57:41,051 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:41,051 - Calculating features for original image
+2025-05-13 11:57:41,063 - Computing firstorder
+2025-05-13 11:57:41,074 - Computing glcm
+2025-05-13 11:57:41,081 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:41,081 - Computing gldm
+2025-05-13 11:57:41,088 - Computing glrlm
+2025-05-13 11:57:41,100 - Computing glszm
+2025-05-13 11:57:41,106 - Computing ngtdm
+2025-05-13 11:57:41,113 - Calculating features with label: 2
+2025-05-13 11:57:41,113 - Loading image and mask
+2025-05-13 11:57:42,519 - Error extracting BraTS-MEN-00040-000 | T2W | Region 2: mask has too few dimensions (number of dimensions 1, minimum required 2)
+2025-05-13 11:57:42,519 - Calculating features with label: 3
+2025-05-13 11:57:42,519 - Loading image and mask
+2025-05-13 11:57:43,967 - Computing shape
+2025-05-13 11:57:44,047 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:44,047 - Calculating features for original image
+2025-05-13 11:57:44,056 - Computing firstorder
+2025-05-13 11:57:44,065 - Computing glcm
+2025-05-13 11:57:44,070 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:44,071 - Computing gldm
+2025-05-13 11:57:44,075 - Computing glrlm
+2025-05-13 11:57:44,085 - Computing glszm
+2025-05-13 11:57:44,089 - Computing ngtdm
+2025-05-13 11:57:44,817 - Calculating features with label: 1
+2025-05-13 11:57:44,817 - Loading image and mask
+2025-05-13 11:57:46,247 - Computing shape
+2025-05-13 11:57:46,562 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:46,562 - Calculating features for original image
+2025-05-13 11:57:46,572 - Computing firstorder
+2025-05-13 11:57:46,584 - Computing glcm
+2025-05-13 11:57:46,593 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:46,593 - Computing gldm
+2025-05-13 11:57:46,601 - Computing glrlm
+2025-05-13 11:57:46,636 - Computing glszm
+2025-05-13 11:57:46,645 - Computing ngtdm
+2025-05-13 11:57:46,653 - Calculating features with label: 2
+2025-05-13 11:57:46,653 - Loading image and mask
+2025-05-13 11:57:48,091 - Computing shape
+2025-05-13 11:57:48,097 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:48,097 - Calculating features for original image
+2025-05-13 11:57:48,106 - Computing firstorder
+2025-05-13 11:57:48,108 - Computing glcm
+2025-05-13 11:57:48,113 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:48,113 - Computing gldm
+2025-05-13 11:57:48,114 - Computing glrlm
+2025-05-13 11:57:48,122 - Computing glszm
+2025-05-13 11:57:48,123 - Computing ngtdm
+2025-05-13 11:57:48,125 - Calculating features with label: 3
+2025-05-13 11:57:48,125 - Loading image and mask
+2025-05-13 11:57:49,553 - Computing shape
+2025-05-13 11:57:51,602 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:51,602 - Calculating features for original image
+2025-05-13 11:57:51,615 - Computing firstorder
+2025-05-13 11:57:51,669 - Computing glcm
+2025-05-13 11:57:51,702 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:51,702 - Computing gldm
+2025-05-13 11:57:51,733 - Computing glrlm
+2025-05-13 11:57:51,791 - Computing glszm
+2025-05-13 11:57:51,822 - Computing ngtdm
+2025-05-13 11:57:51,852 - Calculating features with label: 1
+2025-05-13 11:57:51,852 - Loading image and mask
+2025-05-13 11:57:53,288 - Computing shape
+2025-05-13 11:57:53,601 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:53,601 - Calculating features for original image
+2025-05-13 11:57:53,610 - Computing firstorder
+2025-05-13 11:57:53,622 - Computing glcm
+2025-05-13 11:57:53,631 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:53,632 - Computing gldm
+2025-05-13 11:57:53,641 - Computing glrlm
+2025-05-13 11:57:53,674 - Computing glszm
+2025-05-13 11:57:53,683 - Computing ngtdm
+2025-05-13 11:57:53,692 - Calculating features with label: 2
+2025-05-13 11:57:53,692 - Loading image and mask
+2025-05-13 11:57:55,098 - Computing shape
+2025-05-13 11:57:55,104 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:55,104 - Calculating features for original image
+2025-05-13 11:57:55,112 - Computing firstorder
+2025-05-13 11:57:55,114 - Computing glcm
+2025-05-13 11:57:55,115 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:55,115 - Computing gldm
+2025-05-13 11:57:55,116 - Computing glrlm
+2025-05-13 11:57:55,123 - Computing glszm
+2025-05-13 11:57:55,124 - Computing ngtdm
+2025-05-13 11:57:55,125 - Calculating features with label: 3
+2025-05-13 11:57:55,125 - Loading image and mask
+2025-05-13 11:57:56,573 - Computing shape
+2025-05-13 11:57:58,735 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:57:58,735 - Calculating features for original image
+2025-05-13 11:57:58,744 - Computing firstorder
+2025-05-13 11:57:58,803 - Computing glcm
+2025-05-13 11:57:58,835 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:57:58,836 - Computing gldm
+2025-05-13 11:57:58,867 - Computing glrlm
+2025-05-13 11:57:58,926 - Computing glszm
+2025-05-13 11:57:58,958 - Computing ngtdm
+2025-05-13 11:57:58,987 - Calculating features with label: 1
+2025-05-13 11:57:58,987 - Loading image and mask
+2025-05-13 11:58:00,429 - Computing shape
+2025-05-13 11:58:00,741 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:00,741 - Calculating features for original image
+2025-05-13 11:58:00,751 - Computing firstorder
+2025-05-13 11:58:00,764 - Computing glcm
+2025-05-13 11:58:00,774 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:00,774 - Computing gldm
+2025-05-13 11:58:00,784 - Computing glrlm
+2025-05-13 11:58:00,818 - Computing glszm
+2025-05-13 11:58:00,828 - Computing ngtdm
+2025-05-13 11:58:00,836 - Calculating features with label: 2
+2025-05-13 11:58:00,836 - Loading image and mask
+2025-05-13 11:58:02,272 - Computing shape
+2025-05-13 11:58:02,277 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:02,278 - Calculating features for original image
+2025-05-13 11:58:02,287 - Computing firstorder
+2025-05-13 11:58:02,289 - Computing glcm
+2025-05-13 11:58:02,291 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:02,291 - Computing gldm
+2025-05-13 11:58:02,292 - Computing glrlm
+2025-05-13 11:58:02,298 - Computing glszm
+2025-05-13 11:58:02,299 - Computing ngtdm
+2025-05-13 11:58:02,301 - Calculating features with label: 3
+2025-05-13 11:58:02,301 - Loading image and mask
+2025-05-13 11:58:03,742 - Computing shape
+2025-05-13 11:58:05,795 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:05,796 - Calculating features for original image
+2025-05-13 11:58:05,809 - Computing firstorder
+2025-05-13 11:58:05,886 - Computing glcm
+2025-05-13 11:58:05,934 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:05,935 - Computing gldm
+2025-05-13 11:58:05,968 - Computing glrlm
+2025-05-13 11:58:06,029 - Computing glszm
+2025-05-13 11:58:06,061 - Computing ngtdm
+2025-05-13 11:58:06,090 - Calculating features with label: 1
+2025-05-13 11:58:06,090 - Loading image and mask
+2025-05-13 11:58:07,516 - Computing shape
+2025-05-13 11:58:07,839 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:07,839 - Calculating features for original image
+2025-05-13 11:58:07,852 - Computing firstorder
+2025-05-13 11:58:07,862 - Computing glcm
+2025-05-13 11:58:07,871 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:07,871 - Computing gldm
+2025-05-13 11:58:07,880 - Computing glrlm
+2025-05-13 11:58:07,914 - Computing glszm
+2025-05-13 11:58:07,922 - Computing ngtdm
+2025-05-13 11:58:07,931 - Calculating features with label: 2
+2025-05-13 11:58:07,931 - Loading image and mask
+2025-05-13 11:58:09,372 - Computing shape
+2025-05-13 11:58:09,377 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:09,377 - Calculating features for original image
+2025-05-13 11:58:09,386 - Computing firstorder
+2025-05-13 11:58:09,389 - Computing glcm
+2025-05-13 11:58:09,391 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:09,391 - Computing gldm
+2025-05-13 11:58:09,392 - Computing glrlm
+2025-05-13 11:58:09,398 - Computing glszm
+2025-05-13 11:58:09,399 - Computing ngtdm
+2025-05-13 11:58:09,401 - Calculating features with label: 3
+2025-05-13 11:58:09,401 - Loading image and mask
+2025-05-13 11:58:10,835 - Computing shape
+2025-05-13 11:58:12,894 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:12,894 - Calculating features for original image
+2025-05-13 11:58:12,904 - Computing firstorder
+2025-05-13 11:58:12,955 - Computing glcm
+2025-05-13 11:58:12,988 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:12,988 - Computing gldm
+2025-05-13 11:58:13,027 - Computing glrlm
+2025-05-13 11:58:13,091 - Computing glszm
+2025-05-13 11:58:13,122 - Computing ngtdm
+2025-05-13 11:58:13,912 - Calculating features with label: 2
+2025-05-13 11:58:13,912 - Loading image and mask
+2025-05-13 11:58:15,409 - Computing shape
+2025-05-13 11:58:15,440 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:15,440 - Calculating features for original image
+2025-05-13 11:58:15,449 - Computing firstorder
+2025-05-13 11:58:15,453 - Computing glcm
+2025-05-13 11:58:15,456 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:15,457 - Computing gldm
+2025-05-13 11:58:15,459 - Computing glrlm
+2025-05-13 11:58:15,465 - Computing glszm
+2025-05-13 11:58:15,467 - Computing ngtdm
+2025-05-13 11:58:15,469 - Calculating features with label: 3
+2025-05-13 11:58:15,469 - Loading image and mask
+2025-05-13 11:58:16,992 - Computing shape
+2025-05-13 11:58:17,035 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:17,035 - Calculating features for original image
+2025-05-13 11:58:17,044 - Computing firstorder
+2025-05-13 11:58:17,053 - Computing glcm
+2025-05-13 11:58:17,059 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:17,059 - Computing gldm
+2025-05-13 11:58:17,064 - Computing glrlm
+2025-05-13 11:58:17,071 - Computing glszm
+2025-05-13 11:58:17,076 - Computing ngtdm
+2025-05-13 11:58:17,081 - Calculating features with label: 2
+2025-05-13 11:58:17,081 - Loading image and mask
+2025-05-13 11:58:18,572 - Computing shape
+2025-05-13 11:58:18,600 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:18,600 - Calculating features for original image
+2025-05-13 11:58:18,608 - Computing firstorder
+2025-05-13 11:58:18,612 - Computing glcm
+2025-05-13 11:58:18,615 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:18,616 - Computing gldm
+2025-05-13 11:58:18,619 - Computing glrlm
+2025-05-13 11:58:18,629 - Computing glszm
+2025-05-13 11:58:18,637 - Computing ngtdm
+2025-05-13 11:58:18,640 - Calculating features with label: 3
+2025-05-13 11:58:18,640 - Loading image and mask
+2025-05-13 11:58:20,238 - Computing shape
+2025-05-13 11:58:20,290 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:20,290 - Calculating features for original image
+2025-05-13 11:58:20,303 - Computing firstorder
+2025-05-13 11:58:20,311 - Computing glcm
+2025-05-13 11:58:20,317 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:20,318 - Computing gldm
+2025-05-13 11:58:20,323 - Computing glrlm
+2025-05-13 11:58:20,330 - Computing glszm
+2025-05-13 11:58:20,335 - Computing ngtdm
+2025-05-13 11:58:20,340 - Calculating features with label: 2
+2025-05-13 11:58:20,340 - Loading image and mask
+2025-05-13 11:58:21,851 - Computing shape
+2025-05-13 11:58:21,878 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:21,878 - Calculating features for original image
+2025-05-13 11:58:21,886 - Computing firstorder
+2025-05-13 11:58:21,890 - Computing glcm
+2025-05-13 11:58:21,893 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:21,893 - Computing gldm
+2025-05-13 11:58:21,895 - Computing glrlm
+2025-05-13 11:58:21,901 - Computing glszm
+2025-05-13 11:58:21,903 - Computing ngtdm
+2025-05-13 11:58:21,905 - Calculating features with label: 3
+2025-05-13 11:58:21,906 - Loading image and mask
+2025-05-13 11:58:23,371 - Computing shape
+2025-05-13 11:58:23,417 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:23,417 - Calculating features for original image
+2025-05-13 11:58:23,426 - Computing firstorder
+2025-05-13 11:58:23,435 - Computing glcm
+2025-05-13 11:58:23,441 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:23,441 - Computing gldm
+2025-05-13 11:58:23,447 - Computing glrlm
+2025-05-13 11:58:23,455 - Computing glszm
+2025-05-13 11:58:23,459 - Computing ngtdm
+2025-05-13 11:58:23,464 - Calculating features with label: 2
+2025-05-13 11:58:23,464 - Loading image and mask
+2025-05-13 11:58:24,977 - Computing shape
+2025-05-13 11:58:25,005 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:25,005 - Calculating features for original image
+2025-05-13 11:58:25,014 - Computing firstorder
+2025-05-13 11:58:25,019 - Computing glcm
+2025-05-13 11:58:25,022 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:25,022 - Computing gldm
+2025-05-13 11:58:25,025 - Computing glrlm
+2025-05-13 11:58:25,030 - Computing glszm
+2025-05-13 11:58:25,033 - Computing ngtdm
+2025-05-13 11:58:25,035 - Calculating features with label: 3
+2025-05-13 11:58:25,035 - Loading image and mask
+2025-05-13 11:58:26,553 - Computing shape
+2025-05-13 11:58:26,595 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:26,595 - Calculating features for original image
+2025-05-13 11:58:26,603 - Computing firstorder
+2025-05-13 11:58:26,613 - Computing glcm
+2025-05-13 11:58:26,621 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:26,621 - Computing gldm
+2025-05-13 11:58:26,627 - Computing glrlm
+2025-05-13 11:58:26,635 - Computing glszm
+2025-05-13 11:58:26,641 - Computing ngtdm
+2025-05-13 11:58:27,417 - Calculating features with label: 2
+2025-05-13 11:58:27,417 - Loading image and mask
+2025-05-13 11:58:28,912 - Computing shape
+2025-05-13 11:58:28,950 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:28,950 - Calculating features for original image
+2025-05-13 11:58:28,959 - Computing firstorder
+2025-05-13 11:58:28,964 - Computing glcm
+2025-05-13 11:58:28,967 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:28,968 - Computing gldm
+2025-05-13 11:58:28,970 - Computing glrlm
+2025-05-13 11:58:28,977 - Computing glszm
+2025-05-13 11:58:28,980 - Computing ngtdm
+2025-05-13 11:58:28,984 - Calculating features with label: 3
+2025-05-13 11:58:28,984 - Loading image and mask
+2025-05-13 11:58:30,452 - Computing shape
+2025-05-13 11:58:30,496 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:30,496 - Calculating features for original image
+2025-05-13 11:58:30,504 - Computing firstorder
+2025-05-13 11:58:30,512 - Computing glcm
+2025-05-13 11:58:30,522 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:30,522 - Computing gldm
+2025-05-13 11:58:30,531 - Computing glrlm
+2025-05-13 11:58:30,574 - Computing glszm
+2025-05-13 11:58:30,583 - Computing ngtdm
+2025-05-13 11:58:30,591 - Calculating features with label: 2
+2025-05-13 11:58:30,592 - Loading image and mask
+2025-05-13 11:58:32,092 - Computing shape
+2025-05-13 11:58:32,125 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:32,125 - Calculating features for original image
+2025-05-13 11:58:32,134 - Computing firstorder
+2025-05-13 11:58:32,140 - Computing glcm
+2025-05-13 11:58:32,143 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:32,143 - Computing gldm
+2025-05-13 11:58:32,146 - Computing glrlm
+2025-05-13 11:58:32,153 - Computing glszm
+2025-05-13 11:58:32,155 - Computing ngtdm
+2025-05-13 11:58:32,158 - Calculating features with label: 3
+2025-05-13 11:58:32,158 - Loading image and mask
+2025-05-13 11:58:33,718 - Computing shape
+2025-05-13 11:58:33,767 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:33,767 - Calculating features for original image
+2025-05-13 11:58:33,777 - Computing firstorder
+2025-05-13 11:58:33,786 - Computing glcm
+2025-05-13 11:58:33,796 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:33,797 - Computing gldm
+2025-05-13 11:58:33,809 - Computing glrlm
+2025-05-13 11:58:33,857 - Computing glszm
+2025-05-13 11:58:33,865 - Computing ngtdm
+2025-05-13 11:58:33,875 - Calculating features with label: 2
+2025-05-13 11:58:33,875 - Loading image and mask
+2025-05-13 11:58:35,391 - Computing shape
+2025-05-13 11:58:35,425 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:35,425 - Calculating features for original image
+2025-05-13 11:58:35,436 - Computing firstorder
+2025-05-13 11:58:35,442 - Computing glcm
+2025-05-13 11:58:35,445 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:35,445 - Computing gldm
+2025-05-13 11:58:35,448 - Computing glrlm
+2025-05-13 11:58:35,454 - Computing glszm
+2025-05-13 11:58:35,456 - Computing ngtdm
+2025-05-13 11:58:35,460 - Calculating features with label: 3
+2025-05-13 11:58:35,460 - Loading image and mask
+2025-05-13 11:58:36,951 - Computing shape
+2025-05-13 11:58:36,997 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:36,997 - Calculating features for original image
+2025-05-13 11:58:37,006 - Computing firstorder
+2025-05-13 11:58:37,014 - Computing glcm
+2025-05-13 11:58:37,023 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:37,023 - Computing gldm
+2025-05-13 11:58:37,033 - Computing glrlm
+2025-05-13 11:58:37,078 - Computing glszm
+2025-05-13 11:58:37,087 - Computing ngtdm
+2025-05-13 11:58:37,095 - Calculating features with label: 2
+2025-05-13 11:58:37,095 - Loading image and mask
+2025-05-13 11:58:38,653 - Computing shape
+2025-05-13 11:58:38,686 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:38,686 - Calculating features for original image
+2025-05-13 11:58:38,695 - Computing firstorder
+2025-05-13 11:58:38,701 - Computing glcm
+2025-05-13 11:58:38,704 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:38,704 - Computing gldm
+2025-05-13 11:58:38,707 - Computing glrlm
+2025-05-13 11:58:38,712 - Computing glszm
+2025-05-13 11:58:38,715 - Computing ngtdm
+2025-05-13 11:58:38,718 - Calculating features with label: 3
+2025-05-13 11:58:38,718 - Loading image and mask
+2025-05-13 11:58:40,363 - Computing shape
+2025-05-13 11:58:40,410 - Adding image type "Original" with custom settings: {}
+2025-05-13 11:58:40,410 - Calculating features for original image
+2025-05-13 11:58:40,418 - Computing firstorder
+2025-05-13 11:58:40,430 - Computing glcm
+2025-05-13 11:58:40,439 - GLCM is symmetrical, therefore Sum Average = 2 * Joint Average, only 1 needs to be calculated
+2025-05-13 11:58:40,439 - Computing gldm
+2025-05-13 11:58:40,450 - Computing glrlm
+2025-05-13 11:58:40,506 - Computing glszm
+2025-05-13 11:58:40,518 - Computing ngtdm
